@@ -1,6 +1,6 @@
 # venue-data-pump
 
-Data pump for venue related endpoints from the ESPN API. 
+Data pump for venue related endpoints from the espn-api-orm. 
 
 ## Pipeline
 
@@ -23,8 +23,10 @@ Venue
 
 Geocoding
 - ID
+- Address (Address, City, State, ZipCode)
 - Latitude
 - Longitude
 - H3IndexSmall
 - H3IndexMedium
 - H3IndexLarge
+- LastUpdated
