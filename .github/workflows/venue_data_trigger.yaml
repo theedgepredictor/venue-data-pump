@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  elo_rating_data_trigger:
+  venue_data_trigger:
     runs-on: ubuntu-latest
     steps:
       - name: checkout repo content

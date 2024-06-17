@@ -129,7 +129,7 @@ def get_new_venue_coding(sport_str, league_str, venue_id):
         raise e
 
 def main():
-    root_path = ''
+    root_path = './data'
     geocoding_path = root_path + '/' + 'geocoding.json'
     geocoding_addresses = get_json_file(geocoding_path)
 
