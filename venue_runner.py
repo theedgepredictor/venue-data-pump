@@ -134,7 +134,14 @@ def main():
     geocoding_addresses = get_json_file(geocoding_path)
 
     sport_league_pairs = list(ESPNSportLeagueTypes)
-    sport_league_pairs = [ESPNSportLeagueTypes.FOOTBALL_NFL, ESPNSportLeagueTypes.FOOTBALL_COLLEGE_FOOTBALL]
+    sport_league_pairs = [
+        ESPNSportLeagueTypes.FOOTBALL_NFL,
+        ESPNSportLeagueTypes.FOOTBALL_COLLEGE_FOOTBALL,
+        ESPNSportLeagueTypes.BASKETBALL_MENS_COLLEGE_BASKETBALL,
+        ESPNSportLeagueTypes.BASKETBALL_NBA,
+        ESPNSportLeagueTypes.BASKETBALL_WNBA,
+        ESPNSportLeagueTypes.BASKETBALL_WOMENS_COLLEGE_BASKETBALL,
+    ]
     for sport_league in sport_league_pairs:
         sport_str, league_str = sport_league.value.split('/')
         path = f'{root_path}/{sport_str}/{league_str}/'
