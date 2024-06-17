@@ -1,0 +1,2368 @@
+{
+    "146": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/146?lang=en&region=us",
+        "fullName": "Dunkin Donuts Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "dunkindonutscenter",
+        "lastUpdated": "2024-06-17 11:35:15"
+    },
+    "194": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/194?lang=en&region=us",
+        "fullName": "John M. Belk Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "johnmbelkarena",
+        "lastUpdated": "2024-06-17 11:35:16"
+    },
+    "20": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/20?lang=en&region=us",
+        "fullName": "MVP Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "mvparena",
+        "lastUpdated": "2024-06-17 11:35:17"
+    },
+    "1051": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1051?lang=en&region=us",
+        "fullName": "Cox Pavilion",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "paviliodrhendersonnevada89044",
+        "lastUpdated": "2024-06-17 17:49:07"
+    },
+    "1219": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1219?lang=en&region=us",
+        "fullName": "Matthews Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "matthewsarena",
+        "lastUpdated": "2024-06-17 17:49:08"
+    },
+    "1245": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1245?lang=en&region=us",
+        "fullName": "The Arena at Gwinnett Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "gwinnettplacedrduluthgeorgia30096",
+        "lastUpdated": "2024-06-17 17:49:09"
+    },
+    "1259": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1259?lang=en&region=us",
+        "fullName": "Total Mortgage Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "totalmortgage",
+        "lastUpdated": "2024-06-17 17:49:10"
+    },
+    "1392": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1392?lang=en&region=us",
+        "fullName": "FedExForum",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "fedexforum",
+        "lastUpdated": "2024-06-17 17:49:11"
+    },
+    "1394": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1394?lang=en&region=us",
+        "fullName": "Toyota Center (Houston)",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "toyotacenter",
+        "lastUpdated": "2024-06-17 17:49:12"
+    },
+    "1475": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1475?lang=en&region=us",
+        "fullName": "Wells Fargo Arena (IA)",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "wellsfargoarena",
+        "lastUpdated": "2024-06-17 17:49:14"
+    },
+    "1753": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1753?lang=en&region=us",
+        "fullName": "Now Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "hoffmanestatesicearena",
+        "lastUpdated": "2024-06-17 17:49:15"
+    },
+    "1823": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1823?lang=en&region=us",
+        "fullName": "Capital One Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [
+            {
+                "href": "https://a.espncdn.com/i/venues/wnba/day/1823.jpg",
+                "width": 2000,
+                "height": 1125,
+                "alt": "",
+                "rel": [
+                    "full",
+                    "day"
+                ],
+                "lastUpdated": null
+            }
+        ],
+        "geocodingId": "capitalonearena",
+        "lastUpdated": "2024-06-17 17:49:16"
+    },
+    "1824": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1824?lang=en&region=us",
+        "fullName": "TD Garden",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "tdgarden",
+        "lastUpdated": "2024-06-17 17:49:17"
+    },
+    "1825": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1825?lang=en&region=us",
+        "fullName": "Nassau Veterans Memorial Coliseum",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "nassaucountyveteransmemorialcoliseum",
+        "lastUpdated": "2024-06-17 17:49:18"
+    },
+    "1826": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1826?lang=en&region=us",
+        "fullName": "Prudential Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "prudentialcenter",
+        "lastUpdated": "2024-06-17 17:49:19"
+    },
+    "1827": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1827?lang=en&region=us",
+        "fullName": "State Farm Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "statefarmarena",
+        "lastUpdated": "2024-06-17 17:49:20"
+    },
+    "1830": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1830?lang=en&region=us",
+        "fullName": "Madison Square Garden",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [
+            {
+                "href": "https://a.espncdn.com/i/venues/wnba/day/1830.jpg",
+                "width": 2000,
+                "height": 1125,
+                "alt": "",
+                "rel": [
+                    "full",
+                    "day"
+                ],
+                "lastUpdated": null
+            }
+        ],
+        "geocodingId": "madisonsquaregarden",
+        "lastUpdated": "2024-06-17 17:49:21"
+    },
+    "1835": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1835?lang=en&region=us",
+        "fullName": "Xcel Energy Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [
+            {
+                "href": "https://a.espncdn.com/i/venues/wnba/day/1835.jpg",
+                "width": 2000,
+                "height": 1125,
+                "alt": "",
+                "rel": [
+                    "full",
+                    "day"
+                ],
+                "lastUpdated": null
+            }
+        ],
+        "geocodingId": "xcelenergycenter",
+        "lastUpdated": "2024-06-17 17:49:22"
+    },
+    "1836": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1836?lang=en&region=us",
+        "fullName": "Joe Louis Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "joelouisarena",
+        "lastUpdated": "2024-06-17 17:49:23"
+    },
+    "1838": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1838?lang=en&region=us",
+        "fullName": "Scotiabank Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "scotiabankarenaformerlyaircanadacentre",
+        "lastUpdated": "2024-06-17 17:49:24"
+    },
+    "1839": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1839?lang=en&region=us",
+        "fullName": "Enterprise Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "enterprisecenter",
+        "lastUpdated": "2024-06-17 17:49:25"
+    },
+    "1841": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1841?lang=en&region=us",
+        "fullName": "crypto.com Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [
+            {
+                "href": "https://a.espncdn.com/i/venues/wnba/day/1841.jpg",
+                "width": 2000,
+                "height": 1125,
+                "alt": "",
+                "rel": [
+                    "full",
+                    "day"
+                ],
+                "lastUpdated": null
+            }
+        ],
+        "geocodingId": "arenasdrpomonacalifornia91766",
+        "lastUpdated": "2024-06-17 17:49:26"
+    },
+    "1842": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1842?lang=en&region=us",
+        "fullName": "Honda Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "hondacenter",
+        "lastUpdated": "2024-06-17 17:49:28"
+    },
+    "1844": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1844?lang=en&region=us",
+        "fullName": "Pepsi Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "pepsicenter",
+        "lastUpdated": "2024-06-17 17:49:29"
+    },
+    "1845": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1845?lang=en&region=us",
+        "fullName": "Wells Fargo Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "wellsfargocenter",
+        "lastUpdated": "2024-06-17 17:49:30"
+    },
+    "1847": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1847?lang=en&region=us",
+        "fullName": "United Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "unitedcenter",
+        "lastUpdated": "2024-06-17 17:49:31"
+    },
+    "1893": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1893?lang=en&region=us",
+        "fullName": "Spectrum Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "spectrumcenter",
+        "lastUpdated": "2024-06-17 17:49:32"
+    },
+    "1895": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1895?lang=en&region=us",
+        "fullName": "Credit Union 1 Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "upwadistrict1area5creditunion",
+        "lastUpdated": "2024-06-17 17:49:33"
+    },
+    "1897": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1897?lang=en&region=us",
+        "fullName": "Murphy Athletic Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "murphyathleticcenter",
+        "lastUpdated": "2024-06-17 17:49:34"
+    },
+    "1911": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1911?lang=en&region=us",
+        "fullName": "BOK Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "bokcenter",
+        "lastUpdated": "2024-06-17 17:49:35"
+    },
+    "1929": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1929?lang=en&region=us",
+        "fullName": "Chase Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "chase",
+        "lastUpdated": "2024-06-17 17:49:37"
+    },
+    "1930": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1930?lang=en&region=us",
+        "fullName": "Holt Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "holtarena",
+        "lastUpdated": "2024-06-17 17:49:38"
+    },
+    "1936": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1936?lang=en&region=us",
+        "fullName": "Lundholm Gymnasium",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "lundholmgymnasium",
+        "lastUpdated": "2024-06-17 17:49:39"
+    },
+    "1937": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1937?lang=en&region=us",
+        "fullName": "Pan American Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "panamericancenter",
+        "lastUpdated": "2024-06-17 17:49:40"
+    },
+    "1940": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1940?lang=en&region=us",
+        "fullName": "Ted Constant Convocation Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "tedconstantconvocationcenter",
+        "lastUpdated": "2024-06-17 17:49:41"
+    },
+    "1949": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1949?lang=en&region=us",
+        "fullName": "Footprint Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [
+            {
+                "href": "https://a.espncdn.com/i/venues/wnba/day/1949.jpg",
+                "width": 2000,
+                "height": 1125,
+                "alt": "",
+                "rel": [
+                    "full",
+                    "day"
+                ],
+                "lastUpdated": null
+            }
+        ],
+        "geocodingId": "footprintcenter",
+        "lastUpdated": "2024-06-17 17:49:42"
+    },
+    "1950": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1950?lang=en&region=us",
+        "fullName": "Betty Engelstad Sioux Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "bettyengelstadsiouxcenter",
+        "lastUpdated": "2024-06-17 17:49:43"
+    },
+    "1952": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1952?lang=en&region=us",
+        "fullName": "Donald L. Tucker Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "donaldltuckerciviccenter",
+        "lastUpdated": "2024-06-17 17:49:44"
+    },
+    "1956": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1956?lang=en&region=us",
+        "fullName": "Gampel Pavilion",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "gampelpavilion",
+        "lastUpdated": "2024-06-17 17:49:45"
+    },
+    "1959": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1959?lang=en&region=us",
+        "fullName": "Reese Court",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "reesecourt",
+        "lastUpdated": "2024-06-17 17:49:46"
+    },
+    "1962": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1962?lang=en&region=us",
+        "fullName": "Colonial Life Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "coloniallifearena",
+        "lastUpdated": "2024-06-17 17:49:48"
+    },
+    "1970": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1970?lang=en&region=us",
+        "fullName": "Cameron Hall",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "cameronhall",
+        "lastUpdated": "2024-06-17 17:49:49"
+    },
+    "1971": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1971?lang=en&region=us",
+        "fullName": "E. A. Diddle Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "eadiddlearena",
+        "lastUpdated": "2024-06-17 17:49:50"
+    },
+    "1972": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1972?lang=en&region=us",
+        "fullName": "University Arena (MI)",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "universityarena",
+        "lastUpdated": "2024-06-17 17:49:51"
+    },
+    "1973": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1973?lang=en&region=us",
+        "fullName": "Cintas Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "cintascenter",
+        "lastUpdated": "2024-06-17 17:49:52"
+    },
+    "1976": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1976?lang=en&region=us",
+        "fullName": "SEFCU Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "sefcuarena",
+        "lastUpdated": "2024-06-17 17:49:53"
+    },
+    "1981": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1981?lang=en&region=us",
+        "fullName": "Vines Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "vinescenter",
+        "lastUpdated": "2024-06-17 17:49:54"
+    },
+    "1983": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1983?lang=en&region=us",
+        "fullName": "UW-Milwaukee Panther Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "uwmilwaukeepantherarena",
+        "lastUpdated": "2024-06-17 17:49:55"
+    },
+    "1986": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1986?lang=en&region=us",
+        "fullName": "Crisler Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "crislercenter",
+        "lastUpdated": "2024-06-17 17:49:56"
+    },
+    "1993": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1993?lang=en&region=us",
+        "fullName": "Mabee Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "mabeecenter",
+        "lastUpdated": "2024-06-17 17:49:57"
+    },
+    "2001": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2001?lang=en&region=us",
+        "fullName": "Hynes Athletics Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "hynesathleticcenter",
+        "lastUpdated": "2024-06-17 17:49:58"
+    },
+    "2002": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2002?lang=en&region=us",
+        "fullName": "Francis S. Levien Gymnasium",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "francissleviengymnasium",
+        "lastUpdated": "2024-06-17 17:49:59"
+    },
+    "2010": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2010?lang=en&region=us",
+        "fullName": "Strahan Arena at the University Events Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "sanmarcostexas",
+        "lastUpdated": "2024-06-17 17:50:00"
+    },
+    "2018": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2018?lang=en&region=us",
+        "fullName": "Cowan Spectrum",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "cowanspectrum",
+        "lastUpdated": "2024-06-17 17:50:01"
+    },
+    "2021": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2021?lang=en&region=us",
+        "fullName": "Hill Field House",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "talmadgelhillfieldhouse",
+        "lastUpdated": "2024-06-17 17:50:02"
+    },
+    "2024": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2024?lang=en&region=us",
+        "fullName": "The Pit",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "albuquerquenewmexico",
+        "lastUpdated": "2024-06-17 17:50:03"
+    },
+    "2027": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2027?lang=en&region=us",
+        "fullName": "William Nicks Building",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "williambillyjnicksbuilding",
+        "lastUpdated": "2024-06-17 17:50:04"
+    },
+    "2028": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2028?lang=en&region=us",
+        "fullName": "ExtraMile Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "extramilearena",
+        "lastUpdated": "2024-06-17 17:50:06"
+    },
+    "2029": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2029?lang=en&region=us",
+        "fullName": "Target Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [
+            {
+                "href": "https://a.espncdn.com/i/venues/wnba/day/2029.jpg",
+                "width": 2000,
+                "height": 1125,
+                "alt": "",
+                "rel": [
+                    "full",
+                    "day"
+                ],
+                "lastUpdated": null
+            }
+        ],
+        "geocodingId": "targetcenter",
+        "lastUpdated": "2024-06-17 17:50:07"
+    },
+    "2030": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2030?lang=en&region=us",
+        "fullName": "KFC Yum! Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "kfcyumcenter",
+        "lastUpdated": "2024-06-17 17:50:08"
+    },
+    "2032": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2032?lang=en&region=us",
+        "fullName": "Hinkle Fieldhouse",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "hinklefieldhouse",
+        "lastUpdated": "2024-06-17 17:50:09"
+    },
+    "2033": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2033?lang=en&region=us",
+        "fullName": "First National Bank Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "firstnationalbankarena",
+        "lastUpdated": "2024-06-17 17:50:10"
+    },
+    "2039": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2039?lang=en&region=us",
+        "fullName": "University of Dayton Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "universityofdaytonarena",
+        "lastUpdated": "2024-06-17 17:50:11"
+    },
+    "2043": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2043?lang=en&region=us",
+        "fullName": "Skyhawk Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "skyhawkpkwymartintennessee38237",
+        "lastUpdated": "2024-06-17 17:50:12"
+    },
+    "2047": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2047?lang=en&region=us",
+        "fullName": "United Supermarkets Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "ttuunitedsupermarketsarena",
+        "lastUpdated": "2024-06-17 17:50:13"
+    },
+    "2048": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2048?lang=en&region=us",
+        "fullName": "Devlin Fieldhouse",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "devlinfieldhouse",
+        "lastUpdated": "2024-06-17 17:50:14"
+    },
+    "2052": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2052?lang=en&region=us",
+        "fullName": "Friel Court",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "frielcourt",
+        "lastUpdated": "2024-06-17 17:50:15"
+    },
+    "2065": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2065?lang=en&region=us",
+        "fullName": "Worthington Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "worthingtonarena",
+        "lastUpdated": "2024-06-17 17:50:16"
+    },
+    "2082": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2082?lang=en&region=us",
+        "fullName": "SRC Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "arenacthemetcalifornia92545",
+        "lastUpdated": "2024-06-17 17:50:17"
+    },
+    "2083": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2083?lang=en&region=us",
+        "fullName": "Thomas & Mack Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "thomasmackcenter",
+        "lastUpdated": "2024-06-17 17:50:18"
+    },
+    "2084": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2084?lang=en&region=us",
+        "fullName": "Memorial Gymnasium (Vanderbilt)",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "vanderbiltuniversitymemorialgymnasium",
+        "lastUpdated": "2024-06-17 17:50:19"
+    },
+    "2086": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2086?lang=en&region=us",
+        "fullName": "Charles Koch Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "charleskocharena",
+        "lastUpdated": "2024-06-17 17:50:20"
+    },
+    "2090": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2090?lang=en&region=us",
+        "fullName": "NIU Convocation Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "niuconvocationcenter",
+        "lastUpdated": "2024-06-17 17:50:21"
+    },
+    "2092": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2092?lang=en&region=us",
+        "fullName": "Assembly Hall (Indiana)",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "assemblyhall",
+        "lastUpdated": "2024-06-17 17:50:22"
+    },
+    "2094": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2094?lang=en&region=us",
+        "fullName": "Williams Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "williamsarena",
+        "lastUpdated": "2024-06-17 17:50:23"
+    },
+    "2099": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2099?lang=en&region=us",
+        "fullName": "Bradley Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "bradleycenter",
+        "lastUpdated": "2024-06-17 17:50:25"
+    },
+    "2107": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2107?lang=en&region=us",
+        "fullName": "Alumni Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "arendavebuffalonewyork14221",
+        "lastUpdated": "2024-06-17 17:50:26"
+    },
+    "2108": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2108?lang=en&region=us",
+        "fullName": "Marriott Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "marriottcenter",
+        "lastUpdated": "2024-06-17 17:50:27"
+    },
+    "2110": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2110?lang=en&region=us",
+        "fullName": "FAU Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "bocaratonflorida",
+        "lastUpdated": "2024-06-17 17:50:28"
+    },
+    "2111": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2111?lang=en&region=us",
+        "fullName": "Viejas Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "viejasarena",
+        "lastUpdated": "2024-06-17 17:50:29"
+    },
+    "2112": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2112?lang=en&region=us",
+        "fullName": "Icardo Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "centerstatebakersfieldcalifornia93305",
+        "lastUpdated": "2024-06-17 17:50:30"
+    },
+    "2125": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2125?lang=en&region=us",
+        "fullName": "Charles E. Smith Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "charlesesmithcenter",
+        "lastUpdated": "2024-06-17 17:50:31"
+    },
+    "2126": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2126?lang=en&region=us",
+        "fullName": "Fertitta Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "fertittacenter",
+        "lastUpdated": "2024-06-17 17:50:32"
+    },
+    "2143": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2143?lang=en&region=us",
+        "fullName": "Wolstein Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "wolsteincenter",
+        "lastUpdated": "2024-06-17 17:50:33"
+    },
+    "2152": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2152?lang=en&region=us",
+        "fullName": "Hooper Eblen Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "hoopereblencenter",
+        "lastUpdated": "2024-06-17 17:50:34"
+    },
+    "2154": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2154?lang=en&region=us",
+        "fullName": "McAlister Field House",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "mcalisterfieldhouse",
+        "lastUpdated": "2024-06-17 17:50:35"
+    },
+    "2159": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2159?lang=en&region=us",
+        "fullName": "Athletics-Recreation Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "valparaisoindiana",
+        "lastUpdated": "2024-06-17 17:50:37"
+    },
+    "2160": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2160?lang=en&region=us",
+        "fullName": "Mohegan Sun Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [
+            {
+                "href": "https://a.espncdn.com/i/venues/wnba/day/2160.jpg",
+                "width": 2000,
+                "height": 1125,
+                "alt": "",
+                "rel": [
+                    "full",
+                    "day"
+                ],
+                "lastUpdated": null
+            }
+        ],
+        "geocodingId": "mohegansunarena",
+        "lastUpdated": "2024-06-17 17:50:38"
+    },
+    "2166": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2166?lang=en&region=us",
+        "fullName": "Timmons Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "timmonsarenafurmanuniversity",
+        "lastUpdated": "2024-06-17 17:50:39"
+    },
+    "2167": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2167?lang=en&region=us",
+        "fullName": "EagleBank Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "eaglebankarena",
+        "lastUpdated": "2024-06-17 17:50:40"
+    },
+    "2168": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2168?lang=en&region=us",
+        "fullName": "Bank of Colorado Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "bankofcoloradoarena",
+        "lastUpdated": "2024-06-17 17:50:41"
+    },
+    "2169": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2169?lang=en&region=us",
+        "fullName": "Alumni Recreation Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "alumnisportsandrecreationcenter",
+        "lastUpdated": "2024-06-17 17:50:42"
+    },
+    "2179": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2179?lang=en&region=us",
+        "fullName": "Ryan Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "ryancenter",
+        "lastUpdated": "2024-06-17 17:50:43"
+    },
+    "2181": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2181?lang=en&region=us",
+        "fullName": "Municipal Auditorium (MO)",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "municipalauditorium",
+        "lastUpdated": "2024-06-17 17:50:44"
+    },
+    "2183": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2183?lang=en&region=us",
+        "fullName": "Gainbridge Fieldhouse",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [
+            {
+                "href": "https://a.espncdn.com/i/venues/wnba/day/2183.jpg",
+                "width": 2000,
+                "height": 1125,
+                "alt": "",
+                "rel": [
+                    "full",
+                    "day"
+                ],
+                "lastUpdated": null
+            }
+        ],
+        "geocodingId": "gainbridgefieldhouse",
+        "lastUpdated": "2024-06-17 17:50:45"
+    },
+    "2184": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2184?lang=en&region=us",
+        "fullName": "KeyArena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [
+            {
+                "href": "https://a.espncdn.com/i/venues/wnba/day/2184.jpg",
+                "width": 2000,
+                "height": 1125,
+                "alt": "",
+                "rel": [
+                    "full",
+                    "day"
+                ],
+                "lastUpdated": null
+            }
+        ],
+        "geocodingId": "keyarena",
+        "lastUpdated": "2024-06-17 17:50:47"
+    },
+    "2187": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2187?lang=en&region=us",
+        "fullName": "Buccaneer Fieldhouse",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "buccaneerfieldhouse",
+        "lastUpdated": "2024-06-17 17:50:48"
+    },
+    "2189": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2189?lang=en&region=us",
+        "fullName": "Bob Carpenter Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "bobcarpentercenter",
+        "lastUpdated": "2024-06-17 17:50:49"
+    },
+    "2190": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2190?lang=en&region=us",
+        "fullName": "Banterra Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "carbondalecenter",
+        "lastUpdated": "2024-06-17 17:50:50"
+    },
+    "2196": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2196?lang=en&region=us",
+        "fullName": "Jon M. Huntsman Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "jonmhuntsmancenter",
+        "lastUpdated": "2024-06-17 17:50:51"
+    },
+    "2197": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2197?lang=en&region=us",
+        "fullName": "Western Hall",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "westernhall",
+        "lastUpdated": "2024-06-17 17:50:52"
+    },
+    "2198": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2198?lang=en&region=us",
+        "fullName": "Dee Events Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "deeeventscenter",
+        "lastUpdated": "2024-06-17 17:50:53"
+    },
+    "2206": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2206?lang=en&region=us",
+        "fullName": "McCamish Pavilion",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [
+            {
+                "href": "https://a.espncdn.com/i/venues/wnba/day/2206.jpg",
+                "width": 2000,
+                "height": 1125,
+                "alt": "",
+                "rel": [
+                    "full",
+                    "day"
+                ],
+                "lastUpdated": null
+            }
+        ],
+        "geocodingId": "mccamishpavilion",
+        "lastUpdated": "2024-06-17 17:50:54"
+    },
+    "2209": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2209?lang=en&region=us",
+        "fullName": "Lavietes Pavilion",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "lavietespavilion",
+        "lastUpdated": "2024-06-17 17:50:55"
+    },
+    "2220": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2220?lang=en&region=us",
+        "fullName": "Stroh Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "strohcenter",
+        "lastUpdated": "2024-06-17 17:50:56"
+    },
+    "2222": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2222?lang=en&region=us",
+        "fullName": "HP Field House",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "hpfieldhouse",
+        "lastUpdated": "2024-06-17 17:50:57"
+    },
+    "2247": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2247?lang=en&region=us",
+        "fullName": "Sleep Train Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "sleeptrain",
+        "lastUpdated": "2024-06-17 17:50:58"
+    },
+    "2465": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2465?lang=en&region=us",
+        "fullName": "Oracle Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "oraclearena",
+        "lastUpdated": "2024-06-17 17:50:59"
+    },
+    "2494": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2494?lang=en&region=us",
+        "fullName": "Toyota Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "toyota",
+        "lastUpdated": "2024-06-17 17:51:00"
+    },
+    "2512": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2512?lang=en&region=us",
+        "fullName": "Los Angeles Convention Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "losangelesconventioncenter",
+        "lastUpdated": "2024-06-17 17:51:02"
+    },
+    "2559": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2559?lang=en&region=us",
+        "fullName": "Chesapeake Energy Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "thesalvationarmyschesapeakeenergycenterofhope",
+        "lastUpdated": "2024-06-17 17:51:03"
+    },
+    "2577": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2577?lang=en&region=us",
+        "fullName": "Saitama Super Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "saitamasuperarena",
+        "lastUpdated": "2024-06-17 17:51:04"
+    },
+    "2590": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2590?lang=en&region=us",
+        "fullName": "O2 Arena (ENG)",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "arena",
+        "lastUpdated": "2024-06-17 17:51:05"
+    },
+    "2710": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2710?lang=en&region=us",
+        "fullName": "Silver Spurs Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "silverspurlnkissimmeeflorida34744",
+        "lastUpdated": "2024-06-17 17:51:06"
+    },
+    "282": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/282?lang=en&region=us",
+        "fullName": "Purcell Pavilion",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "southbendindiana",
+        "lastUpdated": "2024-06-17 17:51:07"
+    },
+    "2927": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2927?lang=en&region=us",
+        "fullName": "H-E-B CENTER at CEDAR PARK",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "neaststateleandertexas78641",
+        "lastUpdated": "2024-06-17 17:51:08"
+    },
+    "2935": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/2935?lang=en&region=us",
+        "fullName": "Freeman Coliseum",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "freemancoliseum",
+        "lastUpdated": "2024-06-17 17:51:09"
+    },
+    "3092": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/3092?lang=en&region=us",
+        "fullName": "Findlay Toyota Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "findlaytoyotacenter",
+        "lastUpdated": "2024-06-17 17:51:10"
+    },
+    "3093": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/3093?lang=en&region=us",
+        "fullName": "EnergySolutions Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "energysolutionsarena",
+        "lastUpdated": "2024-06-17 17:51:11"
+    },
+    "317": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/317?lang=en&region=us",
+        "fullName": "Value City Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "valuecityarena",
+        "lastUpdated": "2024-06-17 17:51:12"
+    },
+    "3416": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/3416?lang=en&region=us",
+        "fullName": "College Park Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [
+            {
+                "href": "https://a.espncdn.com/i/venues/wnba/day/3416.jpg",
+                "width": 2000,
+                "height": 1125,
+                "alt": "",
+                "rel": [
+                    "full",
+                    "day"
+                ],
+                "lastUpdated": null
+            }
+        ],
+        "geocodingId": "collegeparkcenter",
+        "lastUpdated": "2024-06-17 17:51:13"
+    },
+    "3417": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/3417?lang=en&region=us",
+        "fullName": "Quicken Loans Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "quickenloansarena",
+        "lastUpdated": "2024-06-17 17:51:15"
+    },
+    "3419": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/3419?lang=en&region=us",
+        "fullName": "The Palace of Auburn Hills",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "thepalaceofauburnhills",
+        "lastUpdated": "2024-06-17 17:51:16"
+    },
+    "3423": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/3423?lang=en&region=us",
+        "fullName": "Rose Garden",
+        "capacity": null,
+        "grass": false,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "portlandrosegardens",
+        "lastUpdated": "2024-06-17 17:51:17"
+    },
+    "3427": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/3427?lang=en&region=us",
+        "fullName": "Payne Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "arenapisafloreshidalgo",
+        "lastUpdated": "2024-06-17 17:51:18"
+    },
+    "3432": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/3432?lang=en&region=us",
+        "fullName": "Amway Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "amwaycenter",
+        "lastUpdated": "2024-06-17 17:51:19"
+    },
+    "3438": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/3438?lang=en&region=us",
+        "fullName": "AmericanAirlines Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "americanairlinesarena",
+        "lastUpdated": "2024-06-17 17:51:20"
+    },
+    "3446": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/3446?lang=en&region=us",
+        "fullName": "Bismarck Civic Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "bismarckciviccenter",
+        "lastUpdated": "2024-06-17 17:51:21"
+    },
+    "348": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/348?lang=en&region=us",
+        "fullName": "Kohl Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "kohlcenter",
+        "lastUpdated": "2024-06-17 17:51:22"
+    },
+    "349": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/349?lang=en&region=us",
+        "fullName": "Greensboro Coliseum",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "greensborocoliseum",
+        "lastUpdated": "2024-06-17 17:51:23"
+    },
+    "3494": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/3494?lang=en&region=us",
+        "fullName": "The Dome at America's Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "domeatamericascenter",
+        "lastUpdated": "2024-06-17 17:51:25"
+    },
+    "3497": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/3497?lang=en&region=us",
+        "fullName": "Sams Gymnasium",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "sanantoniotexas",
+        "lastUpdated": "2024-06-17 17:51:26"
+    },
+    "3498": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/3498?lang=en&region=us",
+        "fullName": "Hutto-Patterson Gymnasium",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "huttopattersongymnasium",
+        "lastUpdated": "2024-06-17 17:51:27"
+    },
+    "3499": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/3499?lang=en&region=us",
+        "fullName": "New Trier High School Gymnasium",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "newtrierhighschool",
+        "lastUpdated": "2024-06-17 17:51:28"
+    },
+    "3500": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/3500?lang=en&region=us",
+        "fullName": "Lakin Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "larkindrazusacalifornia91702",
+        "lastUpdated": "2024-06-17 17:51:29"
+    },
+    "353": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/353?lang=en&region=us",
+        "fullName": "CHI Health Center Omaha",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "chihealthcenter",
+        "lastUpdated": "2024-06-17 17:51:30"
+    },
+    "3559": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/3559?lang=en&region=us",
+        "fullName": "Barclays Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [
+            {
+                "href": "https://a.espncdn.com/i/venues/wnba/day/3559.jpg",
+                "width": 2000,
+                "height": 1125,
+                "alt": "",
+                "rel": [
+                    "full",
+                    "day"
+                ],
+                "lastUpdated": null
+            }
+        ],
+        "geocodingId": "barclayscenter",
+        "lastUpdated": "2024-06-17 17:51:31"
+    },
+    "360": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/360?lang=en&region=us",
+        "fullName": "Exactech Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "exactecharena",
+        "lastUpdated": "2024-06-17 17:51:32"
+    },
+    "363": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/363?lang=en&region=us",
+        "fullName": "Carver-Hawkeye Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "carverhawkeyearena",
+        "lastUpdated": "2024-06-17 17:51:33"
+    },
+    "373": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/373?lang=en&region=us",
+        "fullName": "Cajundome",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "cajundome",
+        "lastUpdated": "2024-06-17 17:51:34"
+    },
+    "391": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/391?lang=en&region=us",
+        "fullName": "Van Andel Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "vanandelarena",
+        "lastUpdated": "2024-06-17 17:51:35"
+    },
+    "4005": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/4005?lang=en&region=us",
+        "fullName": "Michelob ULTRA Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [
+            {
+                "href": "https://a.espncdn.com/i/venues/wnba/day/4005.jpg",
+                "width": 2000,
+                "height": 1125,
+                "alt": "",
+                "rel": [
+                    "full",
+                    "day"
+                ],
+                "lastUpdated": null
+            }
+        ],
+        "geocodingId": "michelobultraarena",
+        "lastUpdated": "2024-06-17 17:51:36"
+    },
+    "406": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/406?lang=en&region=us",
+        "fullName": "Carver Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "carverarena",
+        "lastUpdated": "2024-06-17 17:51:37"
+    },
+    "4310": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/4310?lang=en&region=us",
+        "fullName": "Mall of Asia Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "mallofasiaarena",
+        "lastUpdated": "2024-06-17 17:51:38"
+    },
+    "4332": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/4332?lang=en&region=us",
+        "fullName": "Jacoby Dickens Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "dickensaveelmwoodparkillinois60707",
+        "lastUpdated": "2024-06-17 17:51:39"
+    },
+    "4484": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/4484?lang=en&region=us",
+        "fullName": "Addition Financial Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "additionfinancial",
+        "lastUpdated": "2024-06-17 17:51:40"
+    },
+    "4485": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/4485?lang=en&region=us",
+        "fullName": "Costello Athletic Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "lowellmassachusetts",
+        "lastUpdated": "2024-06-17 17:51:42"
+    },
+    "4489": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/4489?lang=en&region=us",
+        "fullName": "Trojan Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "trojanarena",
+        "lastUpdated": "2024-06-17 17:51:43"
+    },
+    "4534": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/4534?lang=en&region=us",
+        "fullName": "Global Credit Union Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "phoenixarizona",
+        "lastUpdated": "2024-06-17 17:51:44"
+    },
+    "4605": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/4605?lang=en&region=us",
+        "fullName": "Cross Insurance Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "bdnmainesuiteatthecrossinsurancecenter",
+        "lastUpdated": "2024-06-17 17:51:45"
+    },
+    "4691": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/4691?lang=en&region=us",
+        "fullName": "Alumni Hall (RI)",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "alumniaveprovidencerhodeisland02906",
+        "lastUpdated": "2024-06-17 17:51:46"
+    },
+    "479": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/479?lang=en&region=us",
+        "fullName": "Pauley Pavilion",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "pauleypavilion",
+        "lastUpdated": "2024-06-17 17:51:47"
+    },
+    "4810": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/4810?lang=en&region=us",
+        "fullName": "MGM Grand Garden Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "mgmgrandgardenarena",
+        "lastUpdated": "2024-06-17 17:51:48"
+    },
+    "4935": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/4935?lang=en&region=us",
+        "fullName": "Freedom Hall Civic Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "freedomhallciviccenter",
+        "lastUpdated": "2024-06-17 17:51:49"
+    },
+    "4947": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/4947?lang=en&region=us",
+        "fullName": "Indiana Farmers Coliseum",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "indianafarmerscoliseum",
+        "lastUpdated": "2024-06-17 17:51:50"
+    },
+    "5059": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/5059?lang=en&region=us",
+        "fullName": "Baxter Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "baxterarena",
+        "lastUpdated": "2024-06-17 17:51:51"
+    },
+    "5060": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/5060?lang=en&region=us",
+        "fullName": "T-Mobile Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "tmobilearena",
+        "lastUpdated": "2024-06-17 17:51:52"
+    },
+    "516": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/516?lang=en&region=us",
+        "fullName": "American Airlines Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "americanairlinescenter",
+        "lastUpdated": "2024-06-17 17:51:53"
+    },
+    "522": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/522?lang=en&region=us",
+        "fullName": "Resch Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "reschcenter",
+        "lastUpdated": "2024-06-17 17:51:54"
+    },
+    "5240": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/5240?lang=en&region=us",
+        "fullName": "Mayo Civic Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "civiccenterdrrochesterminnesota55901",
+        "lastUpdated": "2024-06-17 17:51:55"
+    },
+    "5242": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/5242?lang=en&region=us",
+        "fullName": "Angel of the Winds Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "angelofthewindsarena",
+        "lastUpdated": "2024-06-17 17:51:57"
+    },
+    "5282": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/5282?lang=en&region=us",
+        "fullName": "Rogers Place",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "rogersplace",
+        "lastUpdated": "2024-06-17 17:51:58"
+    },
+    "5310": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/5310?lang=en&region=us",
+        "fullName": "Golden 1 Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "golden1center",
+        "lastUpdated": "2024-06-17 17:51:59"
+    },
+    "539": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/539?lang=en&region=us",
+        "fullName": "Walter Pyramid",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "walterpyramid",
+        "lastUpdated": "2024-06-17 17:52:00"
+    },
+    "5404": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/5404?lang=en&region=us",
+        "fullName": "Little Caesars Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "littlecaesarsarena",
+        "lastUpdated": "2024-06-17 17:52:01"
+    },
+    "5426": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/5426?lang=en&region=us",
+        "fullName": "Jerry Richardson Indoor Stadium",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "richardsonindoorstateadium",
+        "lastUpdated": "2024-06-17 17:52:02"
+    },
+    "5427": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/5427?lang=en&region=us",
+        "fullName": "Wintrust Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [
+            {
+                "href": "https://a.espncdn.com/i/venues/wnba/day/5427.jpg",
+                "width": 2000,
+                "height": 1125,
+                "alt": "",
+                "rel": [
+                    "full",
+                    "day"
+                ],
+                "lastUpdated": null
+            }
+        ],
+        "geocodingId": "wintrustarena",
+        "lastUpdated": "2024-06-17 17:52:03"
+    },
+    "5433": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/5433?lang=en&region=us",
+        "fullName": "Scheels Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "scheels",
+        "lastUpdated": "2024-06-17 17:52:04"
+    },
+    "544": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/544?lang=en&region=us",
+        "fullName": "Leavey Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "leaveycenter",
+        "lastUpdated": "2024-06-17 17:52:05"
+    },
+    "5470": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/5470?lang=en&region=us",
+        "fullName": "UPMC Events Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "upmceventscenter",
+        "lastUpdated": "2024-06-17 17:52:06"
+    },
+    "5584": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/5584?lang=en&region=us",
+        "fullName": "Westchester County Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "therenfrewcenterofwhiteplainsny",
+        "lastUpdated": "2024-06-17 17:52:07"
+    },
+    "5946": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/5946?lang=en&region=us",
+        "fullName": "Entertainment & Sports Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [
+            {
+                "href": "https://a.espncdn.com/i/venues/wnba/day/5946.jpg",
+                "width": 2000,
+                "height": 1125,
+                "alt": "",
+                "rel": [
+                    "full",
+                    "day"
+                ],
+                "lastUpdated": null
+            }
+        ],
+        "geocodingId": "entertainmentsportsarena",
+        "lastUpdated": "2024-06-17 17:52:08"
+    },
+    "6008": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6008?lang=en&region=us",
+        "fullName": "UMBC Event Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "umbceventcenter",
+        "lastUpdated": "2024-06-17 17:52:09"
+    },
+    "6020": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6020?lang=en&region=us",
+        "fullName": "Viking Pavilion",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "vikingpavilion",
+        "lastUpdated": "2024-06-17 17:52:10"
+    },
+    "6178": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6178?lang=en&region=us",
+        "fullName": "Albany Civic Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "albanyciviccenter",
+        "lastUpdated": "2024-06-17 17:52:11"
+    },
+    "6270": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6270?lang=en&region=us",
+        "fullName": "Chase Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "chasecenter",
+        "lastUpdated": "2024-06-17 17:52:12"
+    },
+    "6271": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6271?lang=en&region=us",
+        "fullName": "AccorHotels Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "accorhotelsarena",
+        "lastUpdated": "2024-06-17 17:52:13"
+    },
+    "6276": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6276?lang=en&region=us",
+        "fullName": "Wuhan Sports Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "wuhanhubei",
+        "lastUpdated": "2024-06-17 17:52:15"
+    },
+    "6279": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6279?lang=en&region=us",
+        "fullName": "Nanjing Youth Olympic Sports Park",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "nanjingjiangsu",
+        "lastUpdated": "2024-06-17 17:52:15"
+    },
+    "6280": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6280?lang=en&region=us",
+        "fullName": "Shanghai Oriental Sports Park",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "shanghaishanghaimunicipalityshanghai",
+        "lastUpdated": "2024-06-17 17:52:16"
+    },
+    "6282": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6282?lang=en&region=us",
+        "fullName": "Gateway Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "gatewayblvdatlantageorgia30337",
+        "lastUpdated": "2024-06-17 17:52:18"
+    },
+    "6285": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6285?lang=en&region=us",
+        "fullName": "Hammel Court",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "courtstatenorthandovermassachusetts01845",
+        "lastUpdated": "2024-06-17 17:52:19"
+    },
+    "6288": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6288?lang=en&region=us",
+        "fullName": "UVI Sports & Fitness Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "stthomascollegefitnesscenter",
+        "lastUpdated": "2024-06-17 17:52:20"
+    },
+    "6289": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6289?lang=en&region=us",
+        "fullName": "CARSA Performance Gym",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "passionandperformance",
+        "lastUpdated": "2024-06-17 17:52:21"
+    },
+    "6292": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6292?lang=en&region=us",
+        "fullName": "Kerr Fitness Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "centeraveeastpittsburghpennsylvania15112",
+        "lastUpdated": "2024-06-17 17:52:22"
+    },
+    "6293": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6293?lang=en&region=us",
+        "fullName": "Donahue Pavilion",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "donahuepavilion",
+        "lastUpdated": "2024-06-17 17:52:23"
+    },
+    "6294": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6294?lang=en&region=us",
+        "fullName": "Firestone High School",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "firestonehighschool",
+        "lastUpdated": "2024-06-17 17:52:24"
+    },
+    "6295": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6295?lang=en&region=us",
+        "fullName": "Covelli Centre",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "covellicentre",
+        "lastUpdated": "2024-06-17 17:52:25"
+    },
+    "6296": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6296?lang=en&region=us",
+        "fullName": "Beckley-Raleigh County Convention Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "beckleyraleighcountyconventioncenter",
+        "lastUpdated": "2024-06-17 17:52:26"
+    },
+    "6297": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6297?lang=en&region=us",
+        "fullName": "Dickies Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "dickies",
+        "lastUpdated": "2024-06-17 17:52:27"
+    },
+    "6298": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6298?lang=en&region=us",
+        "fullName": "Newman Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "georgernewmancenter",
+        "lastUpdated": "2024-06-17 17:52:28"
+    },
+    "6299": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6299?lang=en&region=us",
+        "fullName": "Bobcat Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "bobcatctfrostburgmaryland21532",
+        "lastUpdated": "2024-06-17 17:52:29"
+    },
+    "6300": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6300?lang=en&region=us",
+        "fullName": "Lahue Physical Education Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "lahuephysicaleducationcenter",
+        "lastUpdated": "2024-06-17 17:52:30"
+    },
+    "6301": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6301?lang=en&region=us",
+        "fullName": "Owings Mills Gymnasium",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "owingsmillsgymnasium",
+        "lastUpdated": "2024-06-17 17:52:31"
+    },
+    "6304": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6304?lang=en&region=us",
+        "fullName": "Chaparral Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "chaparralstatemidlandtexas79706",
+        "lastUpdated": "2024-06-17 17:52:33"
+    },
+    "6305": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6305?lang=en&region=us",
+        "fullName": "Ed Clark High School",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "edwclarkhighschool",
+        "lastUpdated": "2024-06-17 17:52:34"
+    },
+    "6306": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6306?lang=en&region=us",
+        "fullName": "Weisiger Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "centerstatespartanburgsouthcarolina29301",
+        "lastUpdated": "2024-06-17 17:52:35"
+    },
+    "6307": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6307?lang=en&region=us",
+        "fullName": "Pam Evans Smith Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "pamevanssmitharena",
+        "lastUpdated": "2024-06-17 17:52:36"
+    },
+    "6310": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6310?lang=en&region=us",
+        "fullName": "Baha Mar Convention Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "nassaucentermissouri",
+        "lastUpdated": "2024-06-17 17:52:37"
+    },
+    "6520": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/6520?lang=en&region=us",
+        "fullName": "Arizona Veterans Memorial Coliseum",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "arizonaveteransmemorialcoliseum",
+        "lastUpdated": "2024-06-17 17:52:38"
+    },
+    "7097": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/7097?lang=en&region=us",
+        "fullName": "IMG Academy",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "imgacademy",
+        "lastUpdated": "2024-06-17 17:52:39"
+    },
+    "7224": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/7224?lang=en&region=us",
+        "fullName": "Climate Pledge Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [
+            {
+                "href": "https://a.espncdn.com/i/venues/wnba/day/7224.jpg",
+                "width": 2000,
+                "height": 1125,
+                "alt": "",
+                "rel": [
+                    "full",
+                    "day"
+                ],
+                "lastUpdated": null
+            }
+        ],
+        "geocodingId": "climatepledgearena",
+        "lastUpdated": "2024-06-17 17:52:40"
+    },
+    "7226": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/7226?lang=en&region=us",
+        "fullName": "UBS Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "ubsarena",
+        "lastUpdated": "2024-06-17 17:52:41"
+    },
+    "763": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/763?lang=en&region=us",
+        "fullName": "STADIUM_NAME",
+        "capacity": null,
+        "grass": false,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "stadium",
+        "lastUpdated": "2024-06-17 17:52:42"
+    },
+    "780": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/780?lang=en&region=us",
+        "fullName": "Frost Bank Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [
+            {
+                "href": "https://a.espncdn.com/i/venues/wnba/day/780.jpg",
+                "width": 2000,
+                "height": 1125,
+                "alt": "",
+                "rel": [
+                    "full",
+                    "day"
+                ],
+                "lastUpdated": null
+            }
+        ],
+        "geocodingId": "frostbankfinancialcenter",
+        "lastUpdated": "2024-06-17 17:52:43"
+    },
+    "782": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/782?lang=en&region=us",
+        "fullName": "Alaska Airlines Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "alaskaairlinesarena",
+        "lastUpdated": "2024-06-17 17:52:44"
+    },
+    "789": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/789?lang=en&region=us",
+        "fullName": "War Memorial Gymnasium",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "warmemorialgymnasium",
+        "lastUpdated": "2024-06-17 17:52:46"
+    },
+    "833": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/833?lang=en&region=us",
+        "fullName": "Desert Financial Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "desertfinancialarena",
+        "lastUpdated": "2024-06-17 17:52:47"
+    },
+    "854": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/854?lang=en&region=us",
+        "fullName": "Hamilton Gymnasium",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "hamiltongymnasium",
+        "lastUpdated": "2024-06-17 17:52:48"
+    },
+    "892": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/892?lang=en&region=us",
+        "fullName": "Ball Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "arena",
+        "lastUpdated": "2024-06-17 17:52:49"
+    },
+    "906": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/906?lang=en&region=us",
+        "fullName": "Al McGuire Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "almcguirecenter",
+        "lastUpdated": "2024-06-17 17:52:50"
+    },
+    "935": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/935?lang=en&region=us",
+        "fullName": "Maturi Pavilion (MN)",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "minneapolisminnesota",
+        "lastUpdated": "2024-06-17 17:52:51"
+    },
+    "977": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/977?lang=en&region=us",
+        "fullName": "Allstate Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [
+            {
+                "href": "https://a.espncdn.com/i/venues/wnba/day/977.jpg",
+                "width": 2000,
+                "height": 1125,
+                "alt": "",
+                "rel": [
+                    "full",
+                    "day"
+                ],
+                "lastUpdated": null
+            }
+        ],
+        "geocodingId": "allstatearena",
+        "lastUpdated": "2024-06-17 17:52:52"
+    },
+    "985": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/985?lang=en&region=us",
+        "fullName": "Smoothie King Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "smoothiekingcenter",
+        "lastUpdated": "2024-06-17 17:52:53"
+    },
+    "999": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/999?lang=en&region=us",
+        "fullName": "PNC Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "pncarena",
+        "lastUpdated": "2024-06-17 17:52:54"
+    }
+}
