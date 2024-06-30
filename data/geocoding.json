@@ -27492,8 +27492,8 @@
         "city": "Carrollton",
         "state": "GA",
         "zipCode": "30117",
-        "elevation": 1040.02628,
-        "lastUpdated": "2024-06-17 15:46:52"
+        "elevation": null,
+        "lastUpdated": "2024-06-30 09:02:53"
     },
     "eliteathleticcenter": {
         "requestedAddress": "Mercyhurst Athletic Center, Erie, PA",

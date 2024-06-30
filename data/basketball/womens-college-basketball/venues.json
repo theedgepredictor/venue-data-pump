@@ -10268,5 +10268,15 @@
         ],
         "geocodingId": "pncarena",
         "lastUpdated": "2024-06-17 18:11:40"
+    },
+    "9548": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/9548?lang=en&region=us",
+        "fullName": "The Coliseum",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "thecoliseum",
+        "lastUpdated": "2024-06-30 09:02:53"
     }
 }
