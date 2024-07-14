@@ -29958,5 +29958,61 @@
         "zipCode": "21286",
         "elevation": 419.94752,
         "lastUpdated": "2024-06-17 18:11:29"
+    },
+    "sperofinancial": {
+        "requestedAddress": "Spero Financial Field, Anderson, SC",
+        "codedAddress": "Spero Financial",
+        "latitude": 34.519605,
+        "longitude": -82.654962,
+        "provider": "ArcGIS",
+        "h3Index": "8f44ddd689499a4",
+        "name": "Spero Financial Field",
+        "city": "Anderson",
+        "state": "SC",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": "2024-07-14 09:08:04"
+    },
+    "grandrapidschristianhighschool": {
+        "requestedAddress": "Grand Rapids Christian High School, Grand Rapids, MI",
+        "codedAddress": "Grand Rapids Christian High School",
+        "latitude": 42.9213441,
+        "longitude": -85.6224072,
+        "provider": "ArcGIS",
+        "h3Index": "8f27481b2448912",
+        "name": "Grand Rapids Christian High School",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": "2024-07-14 09:08:05"
+    },
+    "mayordshreveportlouisiana71106": {
+        "requestedAddress": "Mayo Field, Shreveport, LA",
+        "codedAddress": "Mayo Rd, Shreveport, Louisiana, 71106",
+        "latitude": 32.376584409968,
+        "longitude": -93.744895357953,
+        "provider": "ArcGIS",
+        "h3Index": "8f444ca9d78ac76",
+        "name": "Mayo Field",
+        "city": "Shreveport",
+        "state": "LA",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": "2024-07-14 09:08:06"
+    },
+    "morrisavehomewoodillinois60430": {
+        "requestedAddress": "Morris Field, Chicago, IL",
+        "codedAddress": "Morris Ave, Homewood, Illinois, 60430",
+        "latitude": 41.555352164075,
+        "longitude": -87.668196948764,
+        "provider": "ArcGIS",
+        "h3Index": "8f2664465d1bc90",
+        "name": "Morris Field",
+        "city": "Chicago",
+        "state": "IL",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": "2024-07-14 09:08:06"
     }
 }

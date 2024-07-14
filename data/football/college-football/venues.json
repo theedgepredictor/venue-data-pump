@@ -11948,5 +11948,45 @@
         "images": [],
         "geocodingId": "orangebowlmiamiflorida",
         "lastUpdated": "2024-06-17 14:44:39"
+    },
+    "10461": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/10461?lang=en&region=us",
+        "fullName": "Spero Financial Field",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "sperofinancial",
+        "lastUpdated": "2024-07-14 09:08:04"
+    },
+    "10463": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/10463?lang=en&region=us",
+        "fullName": "Grand Rapids Christian High School",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "grandrapidschristianhighschool",
+        "lastUpdated": "2024-07-14 09:08:05"
+    },
+    "10465": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/10465?lang=en&region=us",
+        "fullName": "Mayo Field",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "mayordshreveportlouisiana71106",
+        "lastUpdated": "2024-07-14 09:08:06"
+    },
+    "3844": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/3844?lang=en&region=us",
+        "fullName": "Morris Field",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "morrisavehomewoodillinois60430",
+        "lastUpdated": "2024-07-14 09:08:06"
     }
 }
