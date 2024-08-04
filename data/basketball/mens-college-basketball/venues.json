@@ -10678,5 +10678,15 @@
         ],
         "geocodingId": "pncarena",
         "lastUpdated": "2024-06-17 15:46:59"
+    },
+    "10593": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/10593?lang=en&region=us",
+        "fullName": "ENMAX Centre",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "lethbridgecentre",
+        "lastUpdated": "2024-08-04 09:06:46"
     }
 }

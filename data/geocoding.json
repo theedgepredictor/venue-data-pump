@@ -30014,5 +30014,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": "2024-07-14 09:08:06"
+    },
+    "lethbridgecentre": {
+        "requestedAddress": "ENMAX Centre, Lethbridge, AB",
+        "codedAddress": "Lethbridge Centre",
+        "latitude": 49.693996,
+        "longitude": -112.840406,
+        "provider": "ArcGIS",
+        "h3Index": "8f12c8a2cb29bb6",
+        "name": "ENMAX Centre",
+        "city": "Lethbridge",
+        "state": "AB",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": "2024-08-04 09:06:46"
     }
 }
