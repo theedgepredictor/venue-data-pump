@@ -10278,5 +10278,35 @@
         "images": [],
         "geocodingId": "thecoliseum",
         "lastUpdated": "2024-06-30 09:02:53"
+    },
+    "10667": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/10667?lang=en&region=us",
+        "fullName": "Elridge Blake Sports and Fitness Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "00802charlotteamaliestatethomasvirginislands",
+        "lastUpdated": "2024-08-11 09:07:14"
+    },
+    "4783": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/4783?lang=en&region=us",
+        "fullName": "The Alario Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "centerrdneworleanslouisiana70121",
+        "lastUpdated": "2024-08-11 09:07:14"
+    },
+    "7524": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/7524?lang=en&region=us",
+        "fullName": "Acrisure Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "arenasrdpalmspringscalifornia92262",
+        "lastUpdated": "2024-08-11 09:07:15"
     }
 }

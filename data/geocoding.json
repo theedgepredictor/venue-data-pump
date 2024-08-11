@@ -378,18 +378,18 @@
         "lastUpdated": "2024-06-17 14:30:43"
     },
     "33199miamiflorida": {
-        "requestedAddress": "Riccardo Silva Stadium, Miami, FL, 33199",
+        "requestedAddress": "Pitbull Stadium, Miami, FL, 33199",
         "codedAddress": "33199, Miami, Florida",
         "latitude": 25.7610303,
         "longitude": -80.3757681,
         "provider": "ArcGIS",
         "h3Index": "8f44a1bb09a4a8c",
-        "name": "Riccardo Silva Stadium",
+        "name": "Pitbull Stadium",
         "city": "Miami",
         "state": "FL",
         "zipCode": "33199",
-        "elevation": 26.24672,
-        "lastUpdated": "2024-06-17 11:35:24"
+        "elevation": null,
+        "lastUpdated": "2024-08-11 09:07:11"
     },
     "tenneystateadiumatleonidofffield": {
         "requestedAddress": "Tenney Stadium at Leonidoff Field, Poughkeepsie, NY, 12601",
@@ -27114,8 +27114,8 @@
         "city": "Palm Springs",
         "state": "CA",
         "zipCode": null,
-        "elevation": 406.82416,
-        "lastUpdated": "2024-06-17 17:48:41"
+        "elevation": null,
+        "lastUpdated": "2024-08-11 09:07:15"
     },
     "cocacolacoliseumformerricohcoliseum": {
         "requestedAddress": "Coca-Cola Coliseum, Toronto, ON",
@@ -30028,5 +30028,33 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": "2024-08-04 09:06:46"
+    },
+    "00802charlotteamaliestatethomasvirginislands": {
+        "requestedAddress": "Elridge Blake Sports and Fitness Center, Charlotte Amalie, Virgin Islands, 00802",
+        "codedAddress": "00802, Charlotte Amalie, St. Thomas, Virgin Islands",
+        "latitude": 18.3479268,
+        "longitude": -64.9320519,
+        "provider": "ArcGIS",
+        "h3Index": "8f4ce802d2ae4a9",
+        "name": "Elridge Blake Sports and Fitness Center",
+        "city": "Charlotte Amalie",
+        "state": "Virgin Islands",
+        "zipCode": "00802",
+        "elevation": null,
+        "lastUpdated": "2024-08-11 09:07:14"
+    },
+    "centerrdneworleanslouisiana70121": {
+        "requestedAddress": "The Alario Center, New Orleans, LA",
+        "codedAddress": "Center Rd, New Orleans, Louisiana, 70121",
+        "latitude": 29.960009856135,
+        "longitude": -90.145583381653,
+        "provider": "ArcGIS",
+        "h3Index": "8f44465519922a5",
+        "name": "The Alario Center",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": "2024-08-11 09:07:14"
     }
 }
