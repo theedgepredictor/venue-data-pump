@@ -30056,5 +30056,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": "2024-08-11 09:07:14"
+    },
+    "90303inglewoodcalifornia": {
+        "requestedAddress": "Intuit Dome, Inglewood, CA, 90303",
+        "codedAddress": "90303, Inglewood, California",
+        "latitude": 33.9338875,
+        "longitude": -118.3328296,
+        "provider": "ArcGIS",
+        "h3Index": "8f29a56e86a399d",
+        "name": "Intuit Dome",
+        "city": "Inglewood",
+        "state": "CA",
+        "zipCode": "90303",
+        "elevation": null,
+        "lastUpdated": "2024-09-01 09:07:33"
     }
 }

@@ -10688,5 +10688,15 @@
         "images": [],
         "geocodingId": "lethbridgecentre",
         "lastUpdated": "2024-08-04 09:06:46"
+    },
+    "10642": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/10642?lang=en&region=us",
+        "fullName": "Intuit Dome",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "90303inglewoodcalifornia",
+        "lastUpdated": "2024-09-01 09:07:33"
     }
 }
