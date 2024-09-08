@@ -26826,16 +26826,16 @@
     "statefarm": {
         "requestedAddress": "State Farm Field House, Kissimmee, FL",
         "codedAddress": "State Farm",
-        "latitude": 28.309699,
-        "longitude": -81.41765,
+        "latitude": 28.300227,
+        "longitude": -81.40403,
         "provider": "ArcGIS",
-        "h3Index": "8f44a9105b6ccec",
+        "h3Index": "8f44a91236dbc5a",
         "name": "State Farm Field House",
         "city": "Kissimmee",
         "state": "FL",
         "zipCode": null,
-        "elevation": 85.30184,
-        "lastUpdated": "2024-06-17 15:45:57"
+        "elevation": null,
+        "lastUpdated": "2024-09-08 09:06:57"
     },
     "abrahamlincolnhighschool": {
         "requestedAddress": "USS Abraham Lincoln, San Diego, CA",
@@ -30070,5 +30070,61 @@
         "zipCode": "90303",
         "elevation": null,
         "lastUpdated": "2024-09-01 09:07:33"
+    },
+    "32514pensacolaflorida": {
+        "requestedAddress": "Pen-Air Field, Pensacola, FL, 32514",
+        "codedAddress": "32514, Pensacola, Florida",
+        "latitude": 30.5203517,
+        "longitude": -87.2245443,
+        "provider": "ArcGIS",
+        "h3Index": "8f445291c34d481",
+        "name": "Pen-Air Field",
+        "city": "Pensacola",
+        "state": "FL",
+        "zipCode": "32514",
+        "elevation": null,
+        "lastUpdated": "2024-09-08 09:06:54"
+    },
+    "mullettarena": {
+        "requestedAddress": "Mullett Arena, Tempe, AZ, 85281",
+        "codedAddress": "Mullett Arena",
+        "latitude": 33.423056,
+        "longitude": -111.92666,
+        "provider": "ArcGIS",
+        "h3Index": "8f48eba4078c5a5",
+        "name": "Mullett Arena",
+        "city": "Tempe",
+        "state": "AZ",
+        "zipCode": "85281",
+        "elevation": null,
+        "lastUpdated": "2024-09-08 09:06:55"
+    },
+    "firstbankandtrust": {
+        "requestedAddress": "First Bank & Trust Arena, Brookings, SD, 57006",
+        "codedAddress": "First Bank And Trust",
+        "latitude": 44.3115213,
+        "longitude": -96.7678717,
+        "provider": "ArcGIS",
+        "h3Index": "8f2604ad62ec2a2",
+        "name": "First Bank & Trust Arena",
+        "city": "Brookings",
+        "state": "SD",
+        "zipCode": "57006",
+        "elevation": null,
+        "lastUpdated": "2024-09-08 09:06:56"
+    },
+    "whitesulphurspringswestvirginia": {
+        "requestedAddress": "Colonial Hall, White Sulphur Springs, WV",
+        "codedAddress": "White Sulphur Springs, West Virginia",
+        "latitude": 37.7939056,
+        "longitude": -80.3007702,
+        "provider": "ArcGIS",
+        "h3Index": "8f2a8e44ec6b22d",
+        "name": "Colonial Hall",
+        "city": "White Sulphur Springs",
+        "state": "WV",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": "2024-09-08 09:06:58"
     }
 }

@@ -11998,5 +11998,15 @@
         "images": [],
         "geocodingId": "33199miamiflorida",
         "lastUpdated": "2024-08-11 09:07:11"
+    },
+    "10803": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/10803?lang=en&region=us",
+        "fullName": "Pen-Air Field",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "32514pensacolaflorida",
+        "lastUpdated": "2024-09-08 09:06:54"
     }
 }

@@ -10698,5 +10698,15 @@
         "images": [],
         "geocodingId": "90303inglewoodcalifornia",
         "lastUpdated": "2024-09-01 09:07:33"
+    },
+    "7329": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/7329?lang=en&region=us",
+        "fullName": "Mullett Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "mullettarena",
+        "lastUpdated": "2024-09-08 09:06:55"
     }
 }
