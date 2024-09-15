@@ -6808,5 +6808,35 @@
         "images": [],
         "geocodingId": "pncarena",
         "lastUpdated": "2024-06-17 17:49:05"
+    },
+    "10642": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/venues/10642?lang=en&region=us",
+        "fullName": "Intuit Dome",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "inglewoodcalifornia",
+        "lastUpdated": "2024-09-15 09:06:55"
+    },
+    "10660": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/venues/10660?lang=en&region=us",
+        "fullName": "Accor Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "accorarena",
+        "lastUpdated": "2024-09-15 09:06:56"
+    },
+    "10793": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/venues/10793?lang=en&region=us",
+        "fullName": "Frontwave Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "oceansidecalifornia",
+        "lastUpdated": "2024-09-15 09:06:56"
     }
 }

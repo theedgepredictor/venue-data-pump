@@ -10338,5 +10338,25 @@
         "images": [],
         "geocodingId": "whitesulphurspringswestvirginia",
         "lastUpdated": "2024-09-08 09:06:58"
+    },
+    "10860": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/10860?lang=en&region=us",
+        "fullName": "Trojan Fieldhouse",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "37210nashvilletennessee",
+        "lastUpdated": "2024-09-15 09:06:58"
+    },
+    "10874": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/10874?lang=en&region=us",
+        "fullName": "Brownwood Coliseum",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "brownwoodcoliseum",
+        "lastUpdated": "2024-09-15 09:06:58"
     }
 }
