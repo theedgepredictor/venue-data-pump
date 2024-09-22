@@ -22596,18 +22596,18 @@
         "lastUpdated": "2024-06-17 15:39:37"
     },
     "philadelphiapennsylvania": {
-        "requestedAddress": "McGonigle Hall, Philadelphia, PA",
+        "requestedAddress": "John Glaser Arena, Philadelphia, PA",
         "codedAddress": "Philadelphia, Pennsylvania",
         "latitude": 39.9510605,
         "longitude": -75.1656204,
         "provider": "ArcGIS",
         "h3Index": "8f2a134d4480098",
-        "name": "McGonigle Hall",
+        "name": "John Glaser Arena",
         "city": "Philadelphia",
         "state": "PA",
         "zipCode": null,
-        "elevation": 82.021,
-        "lastUpdated": "2024-06-17 18:03:53"
+        "elevation": null,
+        "lastUpdated": "2024-09-22 09:06:56"
     },
     "jenisonfieldhouse": {
         "requestedAddress": "Jenison Field House, East Lansing, MI",
@@ -30196,5 +30196,33 @@
         "zipCode": "76801",
         "elevation": null,
         "lastUpdated": "2024-09-15 09:06:58"
+    },
+    "mohegansunarenaatcaseyplaza": {
+        "requestedAddress": "Mohegan Sun Arena Wilkes-Barre, Wilkes Barre Township, PA, 18702",
+        "codedAddress": "Mohegan Sun Arena At Casey Plaza",
+        "latitude": 41.2405274,
+        "longitude": -75.8485854,
+        "provider": "ArcGIS",
+        "h3Index": "8f2aa527281499c",
+        "name": "Mohegan Sun Arena Wilkes-Barre",
+        "city": "Wilkes Barre Township",
+        "state": "PA",
+        "zipCode": "18702",
+        "elevation": null,
+        "lastUpdated": "2024-09-22 09:06:55"
+    },
+    "adidasarena": {
+        "requestedAddress": "Adidas Arena, Paris, France",
+        "codedAddress": "Adidas Arena",
+        "latitude": 48.8993696,
+        "longitude": 2.3600004,
+        "provider": "ArcGIS",
+        "h3Index": "8f1fb4664a8b14e",
+        "name": "Adidas Arena",
+        "city": "Paris",
+        "state": "France",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": "2024-09-22 09:06:57"
     }
 }

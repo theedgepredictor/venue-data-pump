@@ -10708,5 +10708,25 @@
         "images": [],
         "geocodingId": "mullettarena",
         "lastUpdated": "2024-09-08 09:06:55"
+    },
+    "10886": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/10886?lang=en&region=us",
+        "fullName": "Mohegan Sun Arena Wilkes-Barre",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "mohegansunarenaatcaseyplaza",
+        "lastUpdated": "2024-09-22 09:06:55"
+    },
+    "10887": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/10887?lang=en&region=us",
+        "fullName": "John Glaser Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "philadelphiapennsylvania",
+        "lastUpdated": "2024-09-22 09:06:55"
     }
 }

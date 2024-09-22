@@ -10358,5 +10358,25 @@
         "images": [],
         "geocodingId": "brownwoodcoliseum",
         "lastUpdated": "2024-09-15 09:06:58"
+    },
+    "10887": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/10887?lang=en&region=us",
+        "fullName": "John Glaser Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "philadelphiapennsylvania",
+        "lastUpdated": "2024-09-22 09:06:56"
+    },
+    "8619": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/8619?lang=en&region=us",
+        "fullName": "Adidas Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "adidasarena",
+        "lastUpdated": "2024-09-22 09:06:57"
     }
 }
