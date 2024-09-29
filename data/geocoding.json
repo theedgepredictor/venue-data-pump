@@ -30224,5 +30224,33 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": "2024-09-22 09:06:57"
+    },
+    "spraginsstatenwhuntsvillealabama35801": {
+        "requestedAddress": "Spragins Hall, Huntsville, AL, 35899",
+        "codedAddress": "Spragins St NW, Huntsville, Alabama, 35801",
+        "latitude": 34.732048929071,
+        "longitude": -86.588582709261,
+        "provider": "ArcGIS",
+        "h3Index": "8f2649acdc025aa",
+        "name": "Spragins Hall",
+        "city": "Huntsville",
+        "state": "AL",
+        "zipCode": "35899",
+        "elevation": null,
+        "lastUpdated": "2024-09-29 09:08:18"
+    },
+    "avenircentre": {
+        "requestedAddress": "Avenir Centre, Moncton, NB",
+        "codedAddress": "Avenir Centre",
+        "latitude": 46.0859275,
+        "longitude": -64.7831493,
+        "provider": "ArcGIS",
+        "h3Index": "8f2b006a048996d",
+        "name": "Avenir Centre",
+        "city": "Moncton",
+        "state": "NB",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": "2024-09-29 09:08:19"
     }
 }

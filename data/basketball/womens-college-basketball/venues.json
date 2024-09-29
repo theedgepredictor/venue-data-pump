@@ -10378,5 +10378,25 @@
         "images": [],
         "geocodingId": "adidasarena",
         "lastUpdated": "2024-09-22 09:06:57"
+    },
+    "10896": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/10896?lang=en&region=us",
+        "fullName": "Spragins Hall",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "spraginsstatenwhuntsvillealabama35801",
+        "lastUpdated": "2024-09-29 09:08:18"
+    },
+    "5633": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/5633?lang=en&region=us",
+        "fullName": "Avenir Centre",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "avenircentre",
+        "lastUpdated": "2024-09-29 09:08:19"
     }
 }
