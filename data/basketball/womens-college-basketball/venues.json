@@ -10398,5 +10398,15 @@
         "images": [],
         "geocodingId": "avenircentre",
         "lastUpdated": "2024-09-29 09:08:19"
+    },
+    "10908": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/10908?lang=en&region=us",
+        "fullName": "The Sports Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "exosdive",
+        "lastUpdated": "2024-10-06 09:07:51"
     }
 }

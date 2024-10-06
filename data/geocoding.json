@@ -30252,5 +30252,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": "2024-09-29 09:08:19"
+    },
+    "exosdive": {
+        "requestedAddress": "The Sports Center, San Marcos, CA, 92096",
+        "codedAddress": "Exos Dive",
+        "latitude": 33.1322414,
+        "longitude": -117.1982074,
+        "provider": "ArcGIS",
+        "h3Index": "8f29a4773a8b90d",
+        "name": "The Sports Center",
+        "city": "San Marcos",
+        "state": "CA",
+        "zipCode": "92096",
+        "elevation": null,
+        "lastUpdated": "2024-10-06 09:07:51"
     }
 }
