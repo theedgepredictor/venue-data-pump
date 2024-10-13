@@ -10728,5 +10728,15 @@
         "images": [],
         "geocodingId": "philadelphiapennsylvania",
         "lastUpdated": "2024-09-22 09:06:55"
+    },
+    "10949": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/10949?lang=en&region=us",
+        "fullName": "John Wooden Family Fieldhouse",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "45385xeniaohio",
+        "lastUpdated": "2024-10-13 09:07:38"
     }
 }

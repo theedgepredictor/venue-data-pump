@@ -10408,5 +10408,25 @@
         "images": [],
         "geocodingId": "exosdive",
         "lastUpdated": "2024-10-06 09:07:51"
+    },
+    "10949": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/10949?lang=en&region=us",
+        "fullName": "John Wooden Family Fieldhouse",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "45385xeniaohio",
+        "lastUpdated": "2024-10-13 09:07:39"
+    },
+    "10954": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/10954?lang=en&region=us",
+        "fullName": "Hayes Gymnasium",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "hayesgymnasium",
+        "lastUpdated": "2024-10-13 09:07:40"
     }
 }

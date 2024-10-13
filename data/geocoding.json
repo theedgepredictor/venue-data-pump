@@ -30266,5 +30266,33 @@
         "zipCode": "92096",
         "elevation": null,
         "lastUpdated": "2024-10-06 09:07:51"
+    },
+    "45385xeniaohio": {
+        "requestedAddress": "John Wooden Family Fieldhouse, Xenia, OH, 45385",
+        "codedAddress": "45385, Xenia, Ohio",
+        "latitude": 39.681918,
+        "longitude": -83.940454,
+        "provider": "ArcGIS",
+        "h3Index": "8f2a9028b748134",
+        "name": "John Wooden Family Fieldhouse",
+        "city": "Xenia",
+        "state": "OH",
+        "zipCode": "45385",
+        "elevation": null,
+        "lastUpdated": "2024-10-13 09:07:39"
+    },
+    "hayesgymnasium": {
+        "requestedAddress": "Hayes Gymnasium, Tigerville, SC, 29688",
+        "codedAddress": "Hayes Gymnasium",
+        "latitude": 35.068794,
+        "longitude": -82.369857,
+        "provider": "ArcGIS",
+        "h3Index": "8f44dd733089ce8",
+        "name": "Hayes Gymnasium",
+        "city": "Tigerville",
+        "state": "SC",
+        "zipCode": "29688",
+        "elevation": null,
+        "lastUpdated": "2024-10-13 09:07:40"
     }
 }
