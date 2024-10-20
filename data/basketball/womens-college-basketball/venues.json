@@ -10428,5 +10428,15 @@
         "images": [],
         "geocodingId": "hayesgymnasium",
         "lastUpdated": "2024-10-13 09:07:40"
+    },
+    "10971": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/10971?lang=en&region=us",
+        "fullName": "Sturrus Sports & Fitness Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "sturrussportsandfitnesscenter",
+        "lastUpdated": "2024-10-20 09:06:54"
     }
 }

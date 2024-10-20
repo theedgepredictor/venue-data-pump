@@ -30294,5 +30294,33 @@
         "zipCode": "29688",
         "elevation": null,
         "lastUpdated": "2024-10-13 09:07:40"
+    },
+    "floridastatecollegeatjacksonvillesouthcampus11901beachboulevardcenterparkbeechwoodjacksonvilleduvalcountyflorida32246unitedstates": {
+        "requestedAddress": "Florida State College at Jacksonville South Campus, Jacksonville, FL",
+        "codedAddress": "Florida State College at Jacksonville - South Campus, 11901, Beach Boulevard, Center Park, Beechwood, Jacksonville, Duval County, Florida, 32246, United States",
+        "latitude": 30.29542695,
+        "longitude": -81.50759138992296,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Florida State College at Jacksonville South Campus",
+        "city": "Jacksonville",
+        "state": "FL",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "sturrussportsandfitnesscenter": {
+        "requestedAddress": "Sturrus Sports & Fitness Center, Grand Rapids, MI",
+        "codedAddress": "Sturrus Sports and Fitness Center",
+        "latitude": 42.962142,
+        "longitude": -85.630216,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Sturrus Sports & Fitness Center",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }
