@@ -30322,5 +30322,61 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "greensborocoliseumcomplex1921westgatecityboulevardpiedmontheightsgreensboroguilfordcountynorthcarolina27403unitedstates": {
+        "requestedAddress": "Greensboro Complex, Greensboro, NC, 27403",
+        "codedAddress": "Greensboro Coliseum Complex, 1921, West Gate City Boulevard, Piedmont Heights, Greensboro, Guilford County, North Carolina, 27403, United States",
+        "latitude": 36.059075,
+        "longitude": -79.82575434298515,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Greensboro Complex",
+        "city": "Greensboro",
+        "state": "NC",
+        "zipCode": "27403",
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "89449statelinenevada": {
+        "requestedAddress": "Tahoe Blue Event Center, Stateline, NV, 89449",
+        "codedAddress": "89449, Stateline, Nevada",
+        "latitude": 38.9689457,
+        "longitude": -119.9188924,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Tahoe Blue Event Center",
+        "city": "Stateline",
+        "state": "NV",
+        "zipCode": "89449",
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "85212mesaarizona": {
+        "requestedAddress": "Benedictine Physical Education Center, Mesa, AZ, 85212",
+        "codedAddress": "85212, Mesa, Arizona",
+        "latitude": 33.3292712,
+        "longitude": -111.6302269,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Benedictine Physical Education Center",
+        "city": "Mesa",
+        "state": "AZ",
+        "zipCode": "85212",
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "cadencebankarenaandconferencecenter": {
+        "requestedAddress": "Cadence Bank Arena, Tupelo, MS",
+        "codedAddress": "Cadence Bank Arena and Conference Center",
+        "latitude": 34.259497,
+        "longitude": -88.699716,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Cadence Bank Arena",
+        "city": "Tupelo",
+        "state": "MS",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }

@@ -10438,5 +10438,45 @@
         "images": [],
         "geocodingId": "sturrussportsandfitnesscenter",
         "lastUpdated": "2024-10-20 09:06:54"
+    },
+    "10986": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/10986?lang=en&region=us",
+        "fullName": "Greensboro Complex",
+        "capacity": null,
+        "grass": false,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "greensborocoliseumcomplex1921westgatecityboulevardpiedmontheightsgreensboroguilfordcountynorthcarolina27403unitedstates",
+        "lastUpdated": "2024-10-27 09:07:20"
+    },
+    "11030": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/11030?lang=en&region=us",
+        "fullName": "Tahoe Blue Event Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "89449statelinenevada",
+        "lastUpdated": "2024-10-27 09:07:21"
+    },
+    "11031": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/11031?lang=en&region=us",
+        "fullName": "Benedictine Physical Education Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "85212mesaarizona",
+        "lastUpdated": "2024-10-27 09:07:22"
+    },
+    "4533": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/4533?lang=en&region=us",
+        "fullName": "Cadence Bank Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "cadencebankarenaandconferencecenter",
+        "lastUpdated": "2024-10-27 09:07:23"
     }
 }
