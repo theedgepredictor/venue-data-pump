@@ -10758,5 +10758,15 @@
         "images": [],
         "geocodingId": "sturrussportsandfitnesscenter",
         "lastUpdated": "2024-10-20 09:06:52"
+    },
+    "3313": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/3313?lang=en&region=us",
+        "fullName": "Ruben Rodriguez Coliseum",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "caminorodrgueztortugosanjuan00926",
+        "lastUpdated": "2024-11-03 09:07:48"
     }
 }

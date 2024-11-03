@@ -10478,5 +10478,15 @@
         "images": [],
         "geocodingId": "cadencebankarenaandconferencecenter",
         "lastUpdated": "2024-10-27 09:07:23"
+    },
+    "11036": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/11036?lang=en&region=us",
+        "fullName": "Eastlink Centre",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "eastlinkcentrekensingtonroadparkdalecharlottetowncityofcharlottetownqueenscountyprinceedwardislandc1a5g6canada",
+        "lastUpdated": "2024-11-03 09:07:49"
     }
 }

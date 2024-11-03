@@ -29405,13 +29405,13 @@
         "latitude": 18.332341092741,
         "longitude": -66.083970744775,
         "provider": "ArcGIS",
-        "h3Index": "8f4cee79b74e971",
+        "h3Index": null,
         "name": "Ruben Rodriguez Coliseum",
         "city": "San Juan",
         "state": "Puerto Rico",
         "zipCode": null,
-        "elevation": 442.9134,
-        "lastUpdated": "2024-06-17 18:01:44"
+        "elevation": null,
+        "lastUpdated": null
     },
     "waterhousewayorlandoflorida32828": {
         "requestedAddress": "TD Waterhouse Centre, Orlando, FL, 32899",
@@ -30375,6 +30375,20 @@
         "name": "Cadence Bank Arena",
         "city": "Tupelo",
         "state": "MS",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "eastlinkcentrekensingtonroadparkdalecharlottetowncityofcharlottetownqueenscountyprinceedwardislandc1a5g6canada": {
+        "requestedAddress": "Eastlink Centre, Charlottetown, PE",
+        "codedAddress": "Eastlink Centre, Kensington Road, Parkdale, Charlottetown, City of Charlottetown, Queens County, Prince Edward Island, C1A 5G6, Canada",
+        "latitude": 46.24576755,
+        "longitude": -63.11715509867449,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Eastlink Centre",
+        "city": "Charlottetown",
+        "state": "PE",
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
