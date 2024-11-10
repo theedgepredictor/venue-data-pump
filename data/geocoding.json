@@ -30392,5 +30392,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "manat": {
+        "requestedAddress": "Juan Cruz Abreu Coliseum, Manati, Puerto Rico",
+        "codedAddress": "Manat\u00ed",
+        "latitude": 18.449599816188,
+        "longitude": -66.487732024437,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Juan Cruz Abreu Coliseum",
+        "city": "Manati",
+        "state": "Puerto Rico",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }

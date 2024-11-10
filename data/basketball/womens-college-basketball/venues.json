@@ -10488,5 +10488,15 @@
         "images": [],
         "geocodingId": "eastlinkcentrekensingtonroadparkdalecharlottetowncityofcharlottetownqueenscountyprinceedwardislandc1a5g6canada",
         "lastUpdated": "2024-11-03 09:07:49"
+    },
+    "11118": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/11118?lang=en&region=us",
+        "fullName": "Juan Cruz Abreu Coliseum",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "manat",
+        "lastUpdated": "2024-11-10 09:07:07"
     }
 }
