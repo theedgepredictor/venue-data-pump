@@ -30406,5 +30406,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "miamigardensflorida": {
+        "requestedAddress": "Betty T. Ferguson Recreational Complex, Miami Gardens, FL",
+        "codedAddress": "Miami Gardens, Florida",
+        "latitude": 25.9272322,
+        "longitude": -80.2284844,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Betty T. Ferguson Recreational Complex",
+        "city": "Miami Gardens",
+        "state": "FL",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }

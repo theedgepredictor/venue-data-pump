@@ -12008,5 +12008,15 @@
         "images": [],
         "geocodingId": "32514pensacolaflorida",
         "lastUpdated": "2024-09-08 09:06:54"
+    },
+    "10460": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/10460?lang=en&region=us",
+        "fullName": "Betty T. Ferguson Recreational Complex",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "miamigardensflorida",
+        "lastUpdated": "2024-11-17 09:07:07"
     }
 }
