@@ -30420,5 +30420,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "33606tampaflorida": {
+        "requestedAddress": "Walter Athletic Complex, Tampa, FL, 33606",
+        "codedAddress": "33606, Tampa, Florida",
+        "latitude": 27.9393457,
+        "longitude": -82.4706604,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Walter Athletic Complex",
+        "city": "Tampa",
+        "state": "FL",
+        "zipCode": "33606",
+        "elevation": null,
+        "lastUpdated": null
     }
 }

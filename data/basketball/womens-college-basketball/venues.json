@@ -10498,5 +10498,15 @@
         "images": [],
         "geocodingId": "manat",
         "lastUpdated": "2024-11-10 09:07:07"
+    },
+    "11173": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/11173?lang=en&region=us",
+        "fullName": "Walter Athletic Complex",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "33606tampaflorida",
+        "lastUpdated": "2024-11-24 09:07:58"
     }
 }
