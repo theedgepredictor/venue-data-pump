@@ -10768,5 +10768,15 @@
         "images": [],
         "geocodingId": "caminorodrgueztortugosanjuan00926",
         "lastUpdated": "2024-11-03 09:07:48"
+    },
+    "10796": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/10796?lang=en&region=us",
+        "fullName": "First Bank & Trust Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "firstbankandtrust",
+        "lastUpdated": "2024-12-08 09:07:31"
     }
 }
