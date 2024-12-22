@@ -30434,5 +30434,19 @@
         "zipCode": "33606",
         "elevation": null,
         "lastUpdated": null
+    },
+    "rogersarena800griffithswaygastowndowntownvancouvermetrovancouverregionaldistrictbritishcolumbiav6bcanada": {
+        "requestedAddress": "Rogers Arena, Vancouver, BC",
+        "codedAddress": "Rogers Arena, 800, Griffiths Way, Gastown, Downtown, Vancouver, Metro Vancouver Regional District, British Columbia, V6B, Canada",
+        "latitude": 49.2779085,
+        "longitude": -123.10894170979472,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Rogers Arena",
+        "city": "Vancouver",
+        "state": "BC",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }

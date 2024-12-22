@@ -2364,5 +2364,15 @@
         "images": [],
         "geocodingId": "pncarena",
         "lastUpdated": "2024-06-17 17:52:54"
+    },
+    "1833": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1833?lang=en&region=us",
+        "fullName": "Rogers Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "rogersarena800griffithswaygastowndowntownvancouvermetrovancouverregionaldistrictbritishcolumbiav6bcanada",
+        "lastUpdated": "2024-12-22 09:07:09"
     }
 }
