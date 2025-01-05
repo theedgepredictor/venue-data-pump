@@ -30448,5 +30448,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "mullettarena411southpackarddrivetempemaricopacountyarizona85281unitedstates": {
+        "requestedAddress": "Mullett Arena, Tempe, AZ, 85281",
+        "codedAddress": "Mullett Arena, 411, South Packard Drive, Tempe, Maricopa County, Arizona, 85281, United States",
+        "latitude": 33.426643,
+        "longitude": -111.92848865050732,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Mullett Arena",
+        "city": "Tempe",
+        "state": "AZ",
+        "zipCode": "85281",
+        "elevation": null,
+        "lastUpdated": null
     }
 }
