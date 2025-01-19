@@ -29825,13 +29825,13 @@
         "latitude": 33.808021828337,
         "longitude": -118.200225031066,
         "provider": "ArcGIS",
-        "h3Index": "8f29a5613b14411",
+        "h3Index": null,
         "name": "Gold Mine Gym",
         "city": "Long Beach",
         "state": "CA",
         "zipCode": null,
-        "elevation": 36.08924,
-        "lastUpdated": "2024-06-17 18:10:58"
+        "elevation": null,
+        "lastUpdated": null
     },
     "coliseumoaklandcalifornia": {
         "requestedAddress": "Omni Coliseum",
