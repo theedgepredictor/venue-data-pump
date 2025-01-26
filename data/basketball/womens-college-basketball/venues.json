@@ -10518,5 +10518,25 @@
         "images": [],
         "geocodingId": "mullettarena411southpackarddrivetempemaricopacountyarizona85281unitedstates",
         "lastUpdated": "2025-01-05 09:07:12"
+    },
+    "10675": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/10675?lang=en&region=us",
+        "fullName": "Jack and Ruth Ann Hill Convocation Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "statesborogeorgia",
+        "lastUpdated": "2025-01-26 09:05:19"
+    },
+    "11365": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/11365?lang=en&region=us",
+        "fullName": "Merner Gym",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "jackingramfield",
+        "lastUpdated": "2025-01-26 09:05:21"
     }
 }

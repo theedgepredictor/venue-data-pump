@@ -10788,5 +10788,15 @@
         "images": [],
         "geocodingId": "maineavelongbeachcalifornia90806",
         "lastUpdated": "2025-01-19 09:05:08"
+    },
+    "10675": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/10675?lang=en&region=us",
+        "fullName": "Jack and Ruth Ann Hill Convocation Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "statesborogeorgia",
+        "lastUpdated": "2025-01-26 09:05:17"
     }
 }

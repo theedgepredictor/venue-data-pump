@@ -30462,5 +30462,47 @@
         "zipCode": "85281",
         "elevation": null,
         "lastUpdated": null
+    },
+    "edinburgtexas": {
+        "requestedAddress": "Robert and Janet Vackar Stadium, Edinburg, TX",
+        "codedAddress": "Edinburg, Texas",
+        "latitude": 26.299359,
+        "longitude": -98.162704,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Robert and Janet Vackar Stadium",
+        "city": "Edinburg",
+        "state": "TX",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "statesborogeorgia": {
+        "requestedAddress": "Jack and Ruth Ann Hill Convocation Center, Statesboro, GA",
+        "codedAddress": "Statesboro, Georgia",
+        "latitude": 32.44877,
+        "longitude": -81.777753,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Jack and Ruth Ann Hill Convocation Center",
+        "city": "Statesboro",
+        "state": "GA",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "jackingramfield": {
+        "requestedAddress": "Merner Gym, Misenheimer, NC, 28137",
+        "codedAddress": "Jack Ingram Field",
+        "latitude": 35.48332,
+        "longitude": -80.281357,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Merner Gym",
+        "city": "Misenheimer",
+        "state": "NC",
+        "zipCode": "28137",
+        "elevation": null,
+        "lastUpdated": null
     }
 }

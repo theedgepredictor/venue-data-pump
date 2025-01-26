@@ -12018,5 +12018,25 @@
         "images": [],
         "geocodingId": "miamigardensflorida",
         "lastUpdated": "2024-11-17 09:07:07"
+    },
+    "11363": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/11363?lang=en&region=us",
+        "fullName": "Robert and Janet Vackar Stadium",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "edinburgtexas",
+        "lastUpdated": "2025-01-26 09:05:14"
+    },
+    "6006": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/6006?lang=en&region=us",
+        "fullName": "Robert and Janet Vackar Stadium",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "edinburgtexas",
+        "lastUpdated": "2025-01-26 09:05:15"
     }
 }
