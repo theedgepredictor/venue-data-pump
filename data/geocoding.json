@@ -30504,5 +30504,61 @@
         "zipCode": "28137",
         "elevation": null,
         "lastUpdated": null
+    },
+    "21044columbiamaryland": {
+        "requestedAddress": "Kahlert Foundation Complex, Columbia, MD, 21044",
+        "codedAddress": "21044, Columbia, Maryland",
+        "latitude": 39.2145118,
+        "longitude": -76.8759865,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Kahlert Foundation Complex",
+        "city": "Columbia",
+        "state": "MD",
+        "zipCode": "21044",
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "30260morrowgeorgia": {
+        "requestedAddress": "The Loch and Mason Barfield Court, Morrow, GA, 30260",
+        "codedAddress": "30260, Morrow, Georgia",
+        "latitude": 33.582321,
+        "longitude": -84.329805,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "The Loch and Mason Barfield Court",
+        "city": "Morrow",
+        "state": "GA",
+        "zipCode": "30260",
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "lorenwalkerarena1500westagencyroadwestburlingtondesmoinescountyiowa52655unitedstates": {
+        "requestedAddress": "Loren Walker Arena, Burlington, IA, 52655",
+        "codedAddress": "Loren Walker Arena, 1500, West Agency Road, West Burlington, Des Moines County, Iowa, 52655, United States",
+        "latitude": 40.814346650000005,
+        "longitude": -91.17384699839548,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Loren Walker Arena",
+        "city": "Burlington",
+        "state": "IA",
+        "zipCode": "52655",
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "fresnopacificuniversityspecialeventscenter": {
+        "requestedAddress": "The Special Events Center, Fresno, CA, 93702",
+        "codedAddress": "Fresno Pacific University Special Events Center",
+        "latitude": 36.7256014,
+        "longitude": -119.7343933,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "The Special Events Center",
+        "city": "Fresno",
+        "state": "CA",
+        "zipCode": "93702",
+        "elevation": null,
+        "lastUpdated": null
     }
 }

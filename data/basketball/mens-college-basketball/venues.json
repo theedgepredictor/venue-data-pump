@@ -10798,5 +10798,45 @@
         "images": [],
         "geocodingId": "statesborogeorgia",
         "lastUpdated": "2025-01-26 09:05:17"
+    },
+    "11395": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/11395?lang=en&region=us",
+        "fullName": "Kahlert Foundation Complex",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "21044columbiamaryland",
+        "lastUpdated": "2025-02-23 09:07:02"
+    },
+    "11396": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/11396?lang=en&region=us",
+        "fullName": "The Loch and Mason Barfield Court",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "30260morrowgeorgia",
+        "lastUpdated": "2025-02-23 09:07:04"
+    },
+    "11397": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/11397?lang=en&region=us",
+        "fullName": "Loren Walker Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "lorenwalkerarena1500westagencyroadwestburlingtondesmoinescountyiowa52655unitedstates",
+        "lastUpdated": "2025-02-23 09:07:04"
+    },
+    "11398": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/11398?lang=en&region=us",
+        "fullName": "The Special Events Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "fresnopacificuniversityspecialeventscenter",
+        "lastUpdated": "2025-02-23 09:07:05"
     }
 }
