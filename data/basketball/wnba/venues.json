@@ -2374,5 +2374,15 @@
         "images": [],
         "geocodingId": "rogersarena800griffithswaygastowndowntownvancouvermetrovancouverregionaldistrictbritishcolumbiav6bcanada",
         "lastUpdated": "2024-12-22 09:07:09"
+    },
+    "4938": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/4938?lang=en&region=us",
+        "fullName": "CFG Bank Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "cfgbankarena201westbaltimorestreetchinatowndowntownbaltimoremaryland21201unitedstates",
+        "lastUpdated": "2025-03-02 09:07:11"
     }
 }

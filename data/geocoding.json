@@ -30560,5 +30560,19 @@
         "zipCode": "93702",
         "elevation": null,
         "lastUpdated": null
+    },
+    "cfgbankarena201westbaltimorestreetchinatowndowntownbaltimoremaryland21201unitedstates": {
+        "requestedAddress": "CFG Bank Arena, Baltimore, MD",
+        "codedAddress": "CFG Bank Arena, 201, West Baltimore Street, Chinatown, Downtown, Baltimore, Maryland, 21201, United States",
+        "latitude": 39.2886044,
+        "longitude": -76.61870875574147,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "CFG Bank Arena",
+        "city": "Baltimore",
+        "state": "MD",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }
