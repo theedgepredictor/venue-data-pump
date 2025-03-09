@@ -30574,5 +30574,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "petemaravichassemblycenternorthstadiumroaduniversityterracebatonrougeeastbatonrougeparishlouisiana70803unitedstates": {
+        "requestedAddress": "Pete Maravich Assembly Center, Baton Rouge, LA",
+        "codedAddress": "Pete Maravich Assembly Center, North Stadium Road, University Terrace, Baton Rouge, East Baton Rouge Parish, Louisiana, 70803, United States",
+        "latitude": 30.4144753,
+        "longitude": -91.1844893789833,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Pete Maravich Assembly Center",
+        "city": "Baton Rouge",
+        "state": "LA",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }

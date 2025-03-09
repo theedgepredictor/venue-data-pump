@@ -2384,5 +2384,15 @@
         "images": [],
         "geocodingId": "cfgbankarena201westbaltimorestreetchinatowndowntownbaltimoremaryland21201unitedstates",
         "lastUpdated": "2025-03-02 09:07:11"
+    },
+    "557": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/557?lang=en&region=us",
+        "fullName": "Pete Maravich Assembly Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "petemaravichassemblycenternorthstadiumroaduniversityterracebatonrougeeastbatonrougeparishlouisiana70803unitedstates",
+        "lastUpdated": "2025-03-09 09:02:30"
     }
 }
