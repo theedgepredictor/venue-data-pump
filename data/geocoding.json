@@ -30588,5 +30588,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "matthewknightarenafranklinboulevardeugenelanecountyoregon97403unitedstates": {
+        "requestedAddress": "Matthew Knight Arena, Eugene, OR",
+        "codedAddress": "Matthew Knight Arena, Franklin Boulevard, Eugene, Lane County, Oregon, 97403, United States",
+        "latitude": 44.0448264,
+        "longitude": -123.0663683756334,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Matthew Knight Arena",
+        "city": "Eugene",
+        "state": "OR",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }

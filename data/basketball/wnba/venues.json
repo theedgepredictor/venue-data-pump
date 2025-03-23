@@ -2394,5 +2394,15 @@
         "images": [],
         "geocodingId": "petemaravichassemblycenternorthstadiumroaduniversityterracebatonrougeeastbatonrougeparishlouisiana70803unitedstates",
         "lastUpdated": "2025-03-09 09:02:30"
+    },
+    "1977": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1977?lang=en&region=us",
+        "fullName": "Matthew Knight Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "matthewknightarenafranklinboulevardeugenelanecountyoregon97403unitedstates",
+        "lastUpdated": "2025-03-23 09:07:24"
     }
 }
