@@ -7602,5 +7602,35 @@
         "images": [],
         "geocodingId": "orangebowlmiamiflorida",
         "lastUpdated": "2024-06-17 14:28:42"
+    },
+    "1353": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/venues/1353?lang=en&region=us",
+        "fullName": "Santiago Bernab\u00e9u",
+        "capacity": null,
+        "grass": true,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "santiagobernabupaseodelacastellanacuatrocaminostetunmadridcomunidaddemadrid28046espaa",
+        "lastUpdated": "2025-05-18 09:07:53"
+    },
+    "4737": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/venues/4737?lang=en&region=us",
+        "fullName": "Croke Park",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "crokeparkjonessroadballyboughballyboughbward1986dublincountydublinleinsterd03a095ireireland",
+        "lastUpdated": "2025-05-18 09:07:54"
+    },
+    "7696": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/venues/7696?lang=en&region=us",
+        "fullName": "Olympic Stadium Berlin",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "olympiastadionberlin3olympischerplatzwestendcharlottenburgwilmersdorfberlin14053deutschland",
+        "lastUpdated": "2025-05-18 09:07:56"
     }
 }

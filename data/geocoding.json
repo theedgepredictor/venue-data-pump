@@ -30602,5 +30602,47 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "santiagobernabupaseodelacastellanacuatrocaminostetunmadridcomunidaddemadrid28046espaa": {
+        "requestedAddress": "Santiago Bernab\u00e9u, Madrid",
+        "codedAddress": "Santiago Bernab\u00e9u, Paseo de la Castellana, Cuatro Caminos, Tetu\u00e1n, Madrid, Comunidad de Madrid, 28046, Espa\u00f1a",
+        "latitude": 40.4523667,
+        "longitude": -3.6907254,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Santiago Bernab\u00e9u",
+        "city": "Madrid",
+        "state": null,
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "crokeparkjonessroadballyboughballyboughbward1986dublincountydublinleinsterd03a095ireireland": {
+        "requestedAddress": "Croke Park, Dublin",
+        "codedAddress": "Croke Park, Jones's Road, Ballybough, Ballybough B Ward 1986, Dublin, County Dublin, Leinster, D03 A095, \u00c9ire / Ireland",
+        "latitude": 53.3603576,
+        "longitude": -6.2509812,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Croke Park",
+        "city": "Dublin",
+        "state": null,
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "olympiastadionberlin3olympischerplatzwestendcharlottenburgwilmersdorfberlin14053deutschland": {
+        "requestedAddress": "Olympic Stadium Berlin, Berlin",
+        "codedAddress": "Olympiastadion Berlin, 3, Olympischer Platz, Westend, Charlottenburg-Wilmersdorf, Berlin, 14053, Deutschland",
+        "latitude": 52.5145846,
+        "longitude": 13.2398144,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Olympic Stadium Berlin",
+        "city": "Berlin",
+        "state": null,
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }
