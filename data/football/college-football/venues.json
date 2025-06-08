@@ -12038,5 +12038,15 @@
         "images": [],
         "geocodingId": "edinburgtexas",
         "lastUpdated": "2025-01-26 09:05:15"
+    },
+    "11539": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/11539?lang=en&region=us",
+        "fullName": "Charlotte & Gordon Hansen Stadium",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "58405jamestownnorthdakota",
+        "lastUpdated": "2025-06-08 09:07:50"
     }
 }

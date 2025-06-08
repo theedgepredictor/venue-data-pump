@@ -30644,5 +30644,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "58405jamestownnorthdakota": {
+        "requestedAddress": "Charlotte & Gordon Hansen Stadium, Jamestown, ND, 58405",
+        "codedAddress": "58405, Jamestown, North Dakota",
+        "latitude": 46.916044,
+        "longitude": -98.702379,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Charlotte & Gordon Hansen Stadium",
+        "city": "Jamestown",
+        "state": "ND",
+        "zipCode": "58405",
+        "elevation": null,
+        "lastUpdated": null
     }
 }
