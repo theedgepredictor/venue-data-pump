@@ -24631,13 +24631,13 @@
         "latitude": 40.925686,
         "longitude": -73.141129,
         "provider": "ArcGIS",
-        "h3Index": "8f2a10b350d1b54",
+        "h3Index": null,
         "name": "Stony Brook Arena",
         "city": "Stony Brook",
         "state": "NY",
         "zipCode": null,
-        "elevation": 59.05512,
-        "lastUpdated": "2024-06-17 17:44:37"
+        "elevation": null,
+        "lastUpdated": null
     },
     "golden1center": {
         "requestedAddress": "Golden 1 Center, Sacramento, CA",

@@ -10578,5 +10578,15 @@
         "images": [],
         "geocodingId": "fresnopacificuniversityspecialeventscenter",
         "lastUpdated": "2025-02-23 09:07:10"
+    },
+    "5309": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/5309?lang=en&region=us",
+        "fullName": "Stony Brook Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "stonybrooknewyork",
+        "lastUpdated": "2025-06-29 09:08:28"
     }
 }
