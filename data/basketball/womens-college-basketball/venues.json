@@ -10588,5 +10588,15 @@
         "images": [],
         "geocodingId": "stonybrooknewyork",
         "lastUpdated": "2025-06-29 09:08:28"
+    },
+    "11540": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/11540?lang=en&region=us",
+        "fullName": "Jeffery P. Hazell Athletics Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "jefferyphazellathleticcenter",
+        "lastUpdated": "2025-07-06 09:08:15"
     }
 }

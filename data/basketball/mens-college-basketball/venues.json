@@ -10838,5 +10838,15 @@
         "images": [],
         "geocodingId": "fresnopacificuniversityspecialeventscenter",
         "lastUpdated": "2025-02-23 09:07:05"
+    },
+    "11540": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/11540?lang=en&region=us",
+        "fullName": "Jeffery P. Hazell Athletics Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "jefferyphazellathleticcenter",
+        "lastUpdated": "2025-07-06 09:08:14"
     }
 }

@@ -30658,5 +30658,19 @@
         "zipCode": "58405",
         "elevation": null,
         "lastUpdated": null
+    },
+    "jefferyphazellathleticcenter": {
+        "requestedAddress": "Jeffery P. Hazell Athletics Center, West Haven, CT",
+        "codedAddress": "Jeffery P. Hazell Athletic Center",
+        "latitude": 41.296866,
+        "longitude": -72.963225,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Jeffery P. Hazell Athletics Center",
+        "city": "West Haven",
+        "state": "CT",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }
