@@ -10598,5 +10598,15 @@
         "images": [],
         "geocodingId": "jefferyphazellathleticcenter",
         "lastUpdated": "2025-07-06 09:08:15"
+    },
+    "11561": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/11561?lang=en&region=us",
+        "fullName": "The Well",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "thewell6000jstreetsacramentosacramentocountycalifornia95819unitedstates",
+        "lastUpdated": "2025-07-13 09:09:45"
     }
 }

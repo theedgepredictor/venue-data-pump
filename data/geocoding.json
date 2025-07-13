@@ -30672,5 +30672,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "thewell6000jstreetsacramentosacramentocountycalifornia95819unitedstates": {
+        "requestedAddress": "The Well, Sacramento, CA",
+        "codedAddress": "The Well, 6000, J Street, Sacramento, Sacramento County, California, 95819, United States",
+        "latitude": 38.5568455,
+        "longitude": -121.4234503,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "The Well",
+        "city": "Sacramento",
+        "state": "CA",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }
