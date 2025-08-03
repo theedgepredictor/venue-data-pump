@@ -12048,5 +12048,35 @@
         "images": [],
         "geocodingId": "58405jamestownnorthdakota",
         "lastUpdated": "2025-06-08 09:07:50"
+    },
+    "11553": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/11553?lang=en&region=us",
+        "fullName": "Shark Stadium",
+        "capacity": null,
+        "grass": false,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "brookvillenewyork",
+        "lastUpdated": "2025-08-03 09:09:11"
+    },
+    "11589": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/11589?lang=en&region=us",
+        "fullName": "Hinchliffe Stadium",
+        "capacity": null,
+        "grass": true,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "hinchliffestadiummaplestreetpatersonpassaiccountynewjersey07522unitedstates",
+        "lastUpdated": "2025-08-03 09:09:12"
+    },
+    "11591": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/11591?lang=en&region=us",
+        "fullName": "Lokken Stadium",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "lokkenstadiumvikingdrivevalleycitybarnescountynorthdakota58072unitedstates",
+        "lastUpdated": "2025-08-03 09:09:13"
     }
 }

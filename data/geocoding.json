@@ -30686,5 +30686,47 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "brookvillenewyork": {
+        "requestedAddress": "Shark Stadium, Brookville, NY",
+        "codedAddress": "Brookville, New York",
+        "latitude": 40.808923,
+        "longitude": -73.557958,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Shark Stadium",
+        "city": "Brookville",
+        "state": "NY",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "hinchliffestadiummaplestreetpatersonpassaiccountynewjersey07522unitedstates": {
+        "requestedAddress": "Hinchliffe Stadium, Paterson, NJ",
+        "codedAddress": "Hinchliffe Stadium, Maple Street, Paterson, Passaic County, New Jersey, 07522, United States",
+        "latitude": 40.9183803,
+        "longitude": -74.1813221,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Hinchliffe Stadium",
+        "city": "Paterson",
+        "state": "NJ",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "lokkenstadiumvikingdrivevalleycitybarnescountynorthdakota58072unitedstates": {
+        "requestedAddress": "Lokken Stadium, Valley City, ND",
+        "codedAddress": "Lokken Stadium, Viking Drive, Valley City, Barnes County, North Dakota, 58072, United States",
+        "latitude": 46.9164147,
+        "longitude": -98.0159072,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Lokken Stadium",
+        "city": "Valley City",
+        "state": "ND",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }
