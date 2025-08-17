@@ -30728,5 +30728,33 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "uberarena1uberplatzfriedrichshainfriedrichshainkreuzbergberlin10243deutschland": {
+        "requestedAddress": "Uber Arena, Berlin",
+        "codedAddress": "Uber Arena, 1, Uber Platz, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10243, Deutschland",
+        "latitude": 52.5063687,
+        "longitude": 13.4437652,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Uber Arena",
+        "city": "Berlin",
+        "state": null,
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "theo2penrosewaygreenwichpeninsularoyalboroughofgreenwichlondongreaterlondonenglandse100dxunitedkingdom": {
+        "requestedAddress": "The O2, London",
+        "codedAddress": "The O2, Penrose Way, Greenwich Peninsula, Royal Borough of Greenwich, London, Greater London, England, SE10 0DX, United Kingdom",
+        "latitude": 51.5029366,
+        "longitude": 0.0032029,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "The O2",
+        "city": "London",
+        "state": null,
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }

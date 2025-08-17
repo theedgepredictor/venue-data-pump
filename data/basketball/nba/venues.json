@@ -6838,5 +6838,25 @@
         "images": [],
         "geocodingId": "oceansidecalifornia",
         "lastUpdated": "2024-09-15 09:06:56"
+    },
+    "11593": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/venues/11593?lang=en&region=us",
+        "fullName": "Uber Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "uberarena1uberplatzfriedrichshainfriedrichshainkreuzbergberlin10243deutschland",
+        "lastUpdated": "2025-08-17 09:08:28"
+    },
+    "6272": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/venues/6272?lang=en&region=us",
+        "fullName": "The O2",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "theo2penrosewaygreenwichpeninsularoyalboroughofgreenwichlondongreaterlondonenglandse100dxunitedkingdom",
+        "lastUpdated": "2025-08-17 09:08:29"
     }
 }
