@@ -6858,5 +6858,25 @@
         "images": [],
         "geocodingId": "theo2penrosewaygreenwichpeninsularoyalboroughofgreenwichlondongreaterlondonenglandse100dxunitedkingdom",
         "lastUpdated": "2025-08-17 09:08:29"
+    },
+    "4018": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/venues/4018?lang=en&region=us",
+        "fullName": "Venetian Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "thevenetianarenaavenidacidadenovabaadenossasenhoradaesperanazonadoaterrodecotaimacau999078",
+        "lastUpdated": "2025-08-24 09:08:06"
+    },
+    "5318": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/venues/5318?lang=en&region=us",
+        "fullName": "Rod Laver Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "rodlaverarena200batmanavenuemelbournecityofmelbournevictoria3000australia",
+        "lastUpdated": "2025-08-24 09:08:07"
     }
 }

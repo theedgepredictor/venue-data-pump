@@ -30756,5 +30756,33 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "thevenetianarenaavenidacidadenovabaadenossasenhoradaesperanazonadoaterrodecotaimacau999078": {
+        "requestedAddress": "Venetian Arena",
+        "codedAddress": "\u5a01\u5c3c\u65af\u4eba\u7d9c\u85dd\u9928 The Venetian Arena, \u65b0\u57ce\u5927\u99ac\u8def Avenida Cidade Nova, \u8056\u6bcd\u7063 Ba\u00eda de Nossa Senhora da Esperan\u00e7a, \u8def\u6c39\u586b\u6d77\u5340 Zona do Aterro de Cotai, \u6fb3\u9580 Macau, 999078, \u4e2d\u56fd",
+        "latitude": 22.1476526,
+        "longitude": 113.559014,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Venetian Arena",
+        "city": null,
+        "state": null,
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "rodlaverarena200batmanavenuemelbournecityofmelbournevictoria3000australia": {
+        "requestedAddress": "Rod Laver Arena, Melbourne, VIC",
+        "codedAddress": "Rod Laver Arena, 200, Batman Avenue, Melbourne, City of Melbourne, Victoria, 3000, Australia",
+        "latitude": -37.8215688,
+        "longitude": 144.9785875,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Rod Laver Arena",
+        "city": "Melbourne",
+        "state": "VIC",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }
