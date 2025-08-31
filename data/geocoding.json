@@ -22531,13 +22531,13 @@
         "latitude": 48.203314412769,
         "longitude": 8.371792176089,
         "provider": "ArcGIS",
-        "h3Index": "8f1f8111a02346c",
+        "h3Index": null,
         "name": "Ramstein Air Force Base",
         "city": "Ramstein",
         "state": "Germany",
         "zipCode": null,
-        "elevation": 2398.2940399999998,
-        "lastUpdated": "2024-06-17 15:39:33"
+        "elevation": null,
+        "lastUpdated": null
     },
     "yorktowndrcharlestonsouthcarolina29412": {
         "requestedAddress": "USS Yorktown, Charleston, SC",
@@ -30781,6 +30781,20 @@
         "name": "Rod Laver Arena",
         "city": "Melbourne",
         "state": "VIC",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "giantcenter": {
+        "requestedAddress": "Giant Center, Hershey, PA",
+        "codedAddress": "Giant Center",
+        "latitude": 40.2864078,
+        "longitude": -76.6690746,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Giant Center",
+        "city": "Hershey",
+        "state": "PA",
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null

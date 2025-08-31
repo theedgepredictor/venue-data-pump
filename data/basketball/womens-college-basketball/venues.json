@@ -10608,5 +10608,15 @@
         "images": [],
         "geocodingId": "thewell6000jstreetsacramentosacramentocountycalifornia95819unitedstates",
         "lastUpdated": "2025-07-13 09:09:45"
+    },
+    "4082": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/4082?lang=en&region=us",
+        "fullName": "Ramstein Air Force Base",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "ramstein78144schrambergramsteinbadenwrttemberg",
+        "lastUpdated": "2025-08-31 09:07:42"
     }
 }

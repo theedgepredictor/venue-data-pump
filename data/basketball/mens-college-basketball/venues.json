@@ -10858,5 +10858,15 @@
         "images": [],
         "geocodingId": "thewell6000jstreetsacramentosacramentocountycalifornia95819unitedstates",
         "lastUpdated": "2025-07-13 09:09:43"
+    },
+    "21": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/21?lang=en&region=us",
+        "fullName": "Giant Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "giantcenter",
+        "lastUpdated": "2025-08-31 09:07:41"
     }
 }
