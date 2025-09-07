@@ -10618,5 +10618,35 @@
         "images": [],
         "geocodingId": "ramstein78144schrambergramsteinbadenwrttemberg",
         "lastUpdated": "2025-08-31 09:07:42"
+    },
+    "11624": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/11624?lang=en&region=us",
+        "fullName": "Resorts World Event Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "resortsworld",
+        "lastUpdated": "2025-09-07 09:07:43"
+    },
+    "11626": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/11626?lang=en&region=us",
+        "fullName": "Dent Hall",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "70122neworleanslouisiana",
+        "lastUpdated": "2025-09-07 09:07:44"
+    },
+    "7240": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/7240?lang=en&region=us",
+        "fullName": "Raider Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "destinflorida",
+        "lastUpdated": "2025-09-07 09:07:45"
     }
 }

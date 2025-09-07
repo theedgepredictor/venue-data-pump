@@ -26647,13 +26647,13 @@
         "latitude": 30.3936755,
         "longitude": -86.4956633,
         "provider": "ArcGIS",
-        "h3Index": "8f44e5ac0160a1a",
+        "h3Index": null,
         "name": "Raider Arena",
         "city": "Destin",
         "state": "FL",
         "zipCode": null,
-        "elevation": 6.56168,
-        "lastUpdated": "2024-06-17 15:45:39"
+        "elevation": null,
+        "lastUpdated": null
     },
     "teagueblvdabilenetexas79601": {
         "requestedAddress": "Teague Center, Abilene, TX",
@@ -30795,6 +30795,34 @@
         "name": "Giant Center",
         "city": "Hershey",
         "state": "PA",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "70122neworleanslouisiana": {
+        "requestedAddress": "Dent Hall, New Orleans, LA, 70122",
+        "codedAddress": "70122, New Orleans, Louisiana",
+        "latitude": 30.0059322,
+        "longitude": -90.0617395,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Dent Hall",
+        "city": "New Orleans",
+        "state": "LA",
+        "zipCode": "70122",
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "resortsworld": {
+        "requestedAddress": "Resorts World Event Center, Las Vegas, NV",
+        "codedAddress": "Resorts World",
+        "latitude": 36.104112,
+        "longitude": -115.183212,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Resorts World Event Center",
+        "city": "Las Vegas",
+        "state": "NV",
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
