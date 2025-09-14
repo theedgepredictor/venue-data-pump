@@ -10878,5 +10878,15 @@
         "images": [],
         "geocodingId": "70122neworleanslouisiana",
         "lastUpdated": "2025-09-07 09:07:41"
+    },
+    "11627": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/11627?lang=en&region=us",
+        "fullName": "Casey's Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "caseyscenter233centerstreetdowntowndesmoinespolkcountyiowa50309unitedstates",
+        "lastUpdated": "2025-09-14 09:07:22"
     }
 }

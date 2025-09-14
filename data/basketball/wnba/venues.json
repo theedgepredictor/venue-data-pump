@@ -2404,5 +2404,15 @@
         "images": [],
         "geocodingId": "matthewknightarenafranklinboulevardeugenelanecountyoregon97403unitedstates",
         "lastUpdated": "2025-03-23 09:07:24"
+    },
+    "1653": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1653?lang=en&region=us",
+        "fullName": "SAP Center at San Jose",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "sapcenter525westsantaclarastreetlittleitalybuenavistasanjosesantaclaracountycalifornia95113unitedstates",
+        "lastUpdated": "2025-09-14 09:07:23"
     }
 }

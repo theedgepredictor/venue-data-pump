@@ -30826,5 +30826,33 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "caseyscenter233centerstreetdowntowndesmoinespolkcountyiowa50309unitedstates": {
+        "requestedAddress": "Casey's Center, Des Moines, IA",
+        "codedAddress": "Casey's Center, 233, Center Street, Downtown, Des Moines, Polk County, Iowa, 50309, United States",
+        "latitude": 41.5925082,
+        "longitude": -93.6210723,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Casey's Center",
+        "city": "Des Moines",
+        "state": "IA",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "sapcenter525westsantaclarastreetlittleitalybuenavistasanjosesantaclaracountycalifornia95113unitedstates": {
+        "requestedAddress": "SAP Center at San Jose, San Jose, CA",
+        "codedAddress": "SAP Center, 525, West Santa Clara Street, Little Italy, Buena Vista, San Jose, Santa Clara County, California, 95113, United States",
+        "latitude": 37.3328603,
+        "longitude": -121.9012247,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "SAP Center at San Jose",
+        "city": "San Jose",
+        "state": "CA",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }
