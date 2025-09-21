@@ -30854,5 +30854,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "waynestatefieldhouse1290westwarrenavenuewoodbridgemidtowndetroitwaynecountymichigan48201unitedstates": {
+        "requestedAddress": "Wayne State Fieldhouse, Detroit, MI, 48201",
+        "codedAddress": "Wayne State Fieldhouse, 1290, West Warren Avenue, Woodbridge, Midtown, Detroit, Wayne County, Michigan, 48201, United States",
+        "latitude": 42.3533527,
+        "longitude": -83.077381,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Wayne State Fieldhouse",
+        "city": "Detroit",
+        "state": "MI",
+        "zipCode": "48201",
+        "elevation": null,
+        "lastUpdated": null
     }
 }

@@ -10648,5 +10648,15 @@
         "images": [],
         "geocodingId": "destinflorida",
         "lastUpdated": "2025-09-07 09:07:45"
+    },
+    "7268": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/7268?lang=en&region=us",
+        "fullName": "Wayne State Fieldhouse",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "waynestatefieldhouse1290westwarrenavenuewoodbridgemidtowndetroitwaynecountymichigan48201unitedstates",
+        "lastUpdated": "2025-09-21 09:07:19"
     }
 }
