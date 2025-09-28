@@ -10658,5 +10658,15 @@
         "images": [],
         "geocodingId": "waynestatefieldhouse1290westwarrenavenuewoodbridgemidtowndetroitwaynecountymichigan48201unitedstates",
         "lastUpdated": "2025-09-21 09:07:19"
+    },
+    "11629": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/11629?lang=en&region=us",
+        "fullName": "Lee & Penny Anderson Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "leeandpennyandersonarenacretinavenuesouthmacalestergrovelandsaintpaulramseycountyminnesota55104unitedstates",
+        "lastUpdated": "2025-09-28 09:07:29"
     }
 }

@@ -10888,5 +10888,65 @@
         "images": [],
         "geocodingId": "caseyscenter233centerstreetdowntowndesmoinespolkcountyiowa50309unitedstates",
         "lastUpdated": "2025-09-14 09:07:22"
+    },
+    "10667": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/10667?lang=en&region=us",
+        "fullName": "Elridge Blake Sports and Fitness Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "00802charlotteamalieeastvirginislands",
+        "lastUpdated": "2025-09-28 09:07:22"
+    },
+    "11624": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/11624?lang=en&region=us",
+        "fullName": "Resorts World Event Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "resortsworld",
+        "lastUpdated": "2025-09-28 09:07:23"
+    },
+    "11629": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/11629?lang=en&region=us",
+        "fullName": "Lee & Penny Anderson Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "leeandpennyandersonarenacretinavenuesouthmacalestergrovelandsaintpaulramseycountyminnesota55104unitedstates",
+        "lastUpdated": "2025-09-28 09:07:24"
+    },
+    "11630": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/11630?lang=en&region=us",
+        "fullName": "John Hurst Adams Gymnasium",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "johnjacksonvilleflorida32207",
+        "lastUpdated": "2025-09-28 09:07:25"
+    },
+    "2505": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/2505?lang=en&region=us",
+        "fullName": "The Forum (USA)",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "thekiaforum",
+        "lastUpdated": "2025-09-28 09:07:27"
+    },
+    "5036": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/5036?lang=en&region=us",
+        "fullName": "Howard McCasland Field House",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "mccaslandfieldhouse",
+        "lastUpdated": "2025-09-28 09:07:27"
     }
 }
