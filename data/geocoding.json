@@ -30938,5 +30938,33 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "centrevillebankstadium150taftstreetpawtucketprovidencecountyrhodeisland02860unitedstates": {
+        "requestedAddress": "Centreville Bank Stadium, Pawtucket, RI",
+        "codedAddress": "Centreville Bank Stadium, 150, Taft Street, Pawtucket, Providence County, Rhode Island, 02860, United States",
+        "latitude": 41.8691572,
+        "longitude": -71.3829948,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Centreville Bank Stadium",
+        "city": "Pawtucket",
+        "state": "RI",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "trojanfieldhouse": {
+        "requestedAddress": "Trevecca Trojan Fieldhouse, Nashville, TN",
+        "codedAddress": "Trojan Fieldhouse",
+        "latitude": 36.1407,
+        "longitude": -86.7527,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Trevecca Trojan Fieldhouse",
+        "city": "Nashville",
+        "state": "TN",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }

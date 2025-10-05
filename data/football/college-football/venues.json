@@ -12078,5 +12078,15 @@
         "images": [],
         "geocodingId": "lokkenstadiumvikingdrivevalleycitybarnescountynorthdakota58072unitedstates",
         "lastUpdated": "2025-08-03 09:09:13"
+    },
+    "11488": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/11488?lang=en&region=us",
+        "fullName": "Centreville Bank Stadium",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "centrevillebankstadium150taftstreetpawtucketprovidencecountyrhodeisland02860unitedstates",
+        "lastUpdated": "2025-10-05 09:07:13"
     }
 }

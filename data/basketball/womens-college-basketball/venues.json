@@ -10668,5 +10668,15 @@
         "images": [],
         "geocodingId": "leeandpennyandersonarenacretinavenuesouthmacalestergrovelandsaintpaulramseycountyminnesota55104unitedstates",
         "lastUpdated": "2025-09-28 09:07:29"
+    },
+    "11632": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/11632?lang=en&region=us",
+        "fullName": "Trevecca Trojan Fieldhouse",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "trojanfieldhouse",
+        "lastUpdated": "2025-10-05 09:07:16"
     }
 }
