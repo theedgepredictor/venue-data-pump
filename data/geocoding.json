@@ -30966,5 +30966,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "cocacolacoliseumgardinerexpresswayfortyorklibertyvillagespadinafortyorktorontogoldenhorseshoeontariom6k1w8canada": {
+        "requestedAddress": "Coca-Cola Coliseum, Toronto, ON",
+        "codedAddress": "Coca-Cola Coliseum, Gardiner Expressway, Fort York-Liberty Village, Spadina\u2014Fort York, Toronto, Golden Horseshoe, Ontario, M6K 1W8, Canada",
+        "latitude": 43.6356495,
+        "longitude": -79.4148366,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Coca-Cola Coliseum",
+        "city": "Toronto",
+        "state": "ON",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }

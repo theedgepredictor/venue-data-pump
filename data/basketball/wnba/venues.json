@@ -2414,5 +2414,15 @@
         "images": [],
         "geocodingId": "sapcenter525westsantaclarastreetlittleitalybuenavistasanjosesantaclaracountycalifornia95113unitedstates",
         "lastUpdated": "2025-09-14 09:07:23"
+    },
+    "7546": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/7546?lang=en&region=us",
+        "fullName": "Coca-Cola Coliseum",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "cocacolacoliseumgardinerexpresswayfortyorklibertyvillagespadinafortyorktorontogoldenhorseshoeontariom6k1w8canada",
+        "lastUpdated": "2025-10-12 09:07:36"
     }
 }
