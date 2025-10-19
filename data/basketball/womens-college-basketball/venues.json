@@ -10678,5 +10678,15 @@
         "images": [],
         "geocodingId": "trojanfieldhouse",
         "lastUpdated": "2025-10-05 09:07:16"
+    },
+    "11633": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/11633?lang=en&region=us",
+        "fullName": "Harrah's Cherokee Resort",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "harrahscherokeecasinoresort",
+        "lastUpdated": "2025-10-19 09:07:43"
     }
 }

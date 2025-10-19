@@ -30980,5 +30980,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "harrahscherokeecasinoresort": {
+        "requestedAddress": "Harrah's Cherokee Resort, Cherokee, NC",
+        "codedAddress": "Harrah's Cherokee Casino Resort",
+        "latitude": 35.4688938,
+        "longitude": -83.2979673,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Harrah's Cherokee Resort",
+        "city": "Cherokee",
+        "state": "NC",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }
