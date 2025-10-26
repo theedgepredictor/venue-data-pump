@@ -1246,18 +1246,18 @@
         "lastUpdated": "2024-06-17 14:29:32"
     },
     "alumnistateadium": {
-        "requestedAddress": "Alumni Stadium (DE), Dover, DE, 19901",
+        "requestedAddress": "Alumni Stadium, Jackson, OH, 45640",
         "codedAddress": "Alumni Stadium",
-        "latitude": 39.1893231,
-        "longitude": -75.5431954,
+        "latitude": 39.038995,
+        "longitude": -82.642427,
         "provider": "ArcGIS",
-        "h3Index": "8f2aad50b876092",
-        "name": "Alumni Stadium (DE)",
-        "city": "Dover",
-        "state": "DE",
-        "zipCode": "19901",
-        "elevation": 36.08924,
-        "lastUpdated": "2024-06-17 14:29:33"
+        "h3Index": null,
+        "name": "Alumni Stadium",
+        "city": "Jackson",
+        "state": "OH",
+        "zipCode": "45640",
+        "elevation": null,
+        "lastUpdated": null
     },
     "in": {
         "requestedAddress": "Alumni Stadium (IN)",
@@ -30992,6 +30992,20 @@
         "city": "Cherokee",
         "state": "NC",
         "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "mosconecenter3rdstreettransbaysouthofmarketsanfranciscocalifornia94107unitedstatesofamerica": {
+        "requestedAddress": "Moscone Center, San Francisco, CA, 94103",
+        "codedAddress": "Moscone Center, 3rd Street, Transbay, South of Market, San Francisco, California, 94107, United States of America",
+        "latitude": 37.7847119,
+        "longitude": -122.4003108,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Moscone Center",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipCode": "94103",
         "elevation": null,
         "lastUpdated": null
     }

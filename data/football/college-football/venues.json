@@ -12088,5 +12088,15 @@
         "images": [],
         "geocodingId": "centrevillebankstadium150taftstreetpawtucketprovidencecountyrhodeisland02860unitedstates",
         "lastUpdated": "2025-10-05 09:07:13"
+    },
+    "11548": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/11548?lang=en&region=us",
+        "fullName": "Alumni Stadium",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "alumnistateadium",
+        "lastUpdated": "2025-10-26 09:07:46"
     }
 }

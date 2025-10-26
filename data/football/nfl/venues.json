@@ -7632,5 +7632,15 @@
         "images": [],
         "geocodingId": "olympiastadionberlin3olympischerplatzwestendcharlottenburgwilmersdorfberlin14053deutschland",
         "lastUpdated": "2025-05-18 09:07:56"
+    },
+    "11634": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/venues/11634?lang=en&region=us",
+        "fullName": "Moscone Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "mosconecenter3rdstreettransbaysouthofmarketsanfranciscocalifornia94107unitedstatesofamerica",
+        "lastUpdated": "2025-10-26 09:07:45"
     }
 }
