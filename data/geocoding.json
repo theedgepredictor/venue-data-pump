@@ -31008,5 +31008,33 @@
         "zipCode": "94103",
         "elevation": null,
         "lastUpdated": null
+    },
+    "jerabeckactivityandathleticcenter4000mountvernonstreetaudubonplacemontrosehoustonharriscountytexas77006unitedstatesofamerica": {
+        "requestedAddress": "Jerabeck Activity and Athletic Center, Houston, TX",
+        "codedAddress": "Jerabeck Activity and Athletic Center, 4000, Mount Vernon Street, Audubon Place, Montrose, Houston, Harris County, Texas, 77006, United States of America",
+        "latitude": 29.7365933,
+        "longitude": -95.3940501,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Jerabeck Activity and Athletic Center",
+        "city": "Houston",
+        "state": "TX",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "odessacollegesportcenter": {
+        "requestedAddress": "Odessa College Sport Center, Odessa, TX, 79764",
+        "codedAddress": "Odessa College Sport Center",
+        "latitude": 31.865862,
+        "longitude": -102.386012,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Odessa College Sport Center",
+        "city": "Odessa",
+        "state": "TX",
+        "zipCode": "79764",
+        "elevation": null,
+        "lastUpdated": null
     }
 }

@@ -10688,5 +10688,25 @@
         "images": [],
         "geocodingId": "harrahscherokeecasinoresort",
         "lastUpdated": "2025-10-19 09:07:43"
+    },
+    "11636": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/11636?lang=en&region=us",
+        "fullName": "Jerabeck Activity and Athletic Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "jerabeckactivityandathleticcenter4000mountvernonstreetaudubonplacemontrosehoustonharriscountytexas77006unitedstatesofamerica",
+        "lastUpdated": "2025-11-02 09:08:23"
+    },
+    "11641": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/11641?lang=en&region=us",
+        "fullName": "Odessa College Sport Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "odessacollegesportcenter",
+        "lastUpdated": "2025-11-02 09:08:24"
     }
 }
