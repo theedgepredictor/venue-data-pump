@@ -31036,5 +31036,19 @@
         "zipCode": "79764",
         "elevation": null,
         "lastUpdated": null
+    },
+    "bankofsunprairiestateadium": {
+        "requestedAddress": "Bank of Sun Prairie Stadium, Sun Prairie, WI, 53590",
+        "codedAddress": "Bank of Sun Prairie Stadium",
+        "latitude": 43.1815493,
+        "longitude": -89.2184576,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Bank of Sun Prairie Stadium",
+        "city": "Sun Prairie",
+        "state": "WI",
+        "zipCode": "53590",
+        "elevation": null,
+        "lastUpdated": null
     }
 }

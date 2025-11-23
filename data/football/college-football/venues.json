@@ -12098,5 +12098,15 @@
         "images": [],
         "geocodingId": "alumnistateadium",
         "lastUpdated": "2025-10-26 09:07:46"
+    },
+    "11712": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/11712?lang=en&region=us",
+        "fullName": "Bank of Sun Prairie Stadium",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "bankofsunprairiestateadium",
+        "lastUpdated": "2025-11-23 09:08:39"
     }
 }
