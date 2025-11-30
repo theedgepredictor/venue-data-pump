@@ -12108,5 +12108,25 @@
         "images": [],
         "geocodingId": "bankofsunprairiestateadium",
         "lastUpdated": "2025-11-23 09:08:39"
+    },
+    "11723": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/11723?lang=en&region=us",
+        "fullName": "Brickyard Stadium",
+        "capacity": null,
+        "grass": false,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "46342hobartindiana",
+        "lastUpdated": "2025-11-30 09:08:21"
+    },
+    "11724": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/11724?lang=en&region=us",
+        "fullName": "Community National Bank and Trust Stadium",
+        "capacity": null,
+        "grass": false,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "communitynationalbanktrustoftexas",
+        "lastUpdated": "2025-11-30 09:08:22"
     }
 }

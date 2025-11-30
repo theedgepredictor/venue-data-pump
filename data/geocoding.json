@@ -31050,5 +31050,47 @@
         "zipCode": "53590",
         "elevation": null,
         "lastUpdated": null
+    },
+    "46342hobartindiana": {
+        "requestedAddress": "Brickyard Stadium, Hobart, IN, 46342",
+        "codedAddress": "46342, Hobart, Indiana",
+        "latitude": 41.5352587,
+        "longitude": -87.2596888,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Brickyard Stadium",
+        "city": "Hobart",
+        "state": "IN",
+        "zipCode": "46342",
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "communitynationalbanktrustoftexas": {
+        "requestedAddress": "Community National Bank and Trust Stadium, Corsicana, TX",
+        "codedAddress": "Community National Bank & Trust of Texas",
+        "latitude": 32.066832,
+        "longitude": -96.438986,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Community National Bank and Trust Stadium",
+        "city": "Corsicana",
+        "state": "TX",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "communityschoolofnaples": {
+        "requestedAddress": "Community School of Naples, Naples, FL",
+        "codedAddress": "Community School of Naples",
+        "latitude": 26.219849,
+        "longitude": -81.75231,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Community School of Naples",
+        "city": "Naples",
+        "state": "FL",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }

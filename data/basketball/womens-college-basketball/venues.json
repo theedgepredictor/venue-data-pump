@@ -10708,5 +10708,15 @@
         "images": [],
         "geocodingId": "odessacollegesportcenter",
         "lastUpdated": "2025-11-02 09:08:24"
+    },
+    "11730": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/11730?lang=en&region=us",
+        "fullName": "Community School of Naples",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "communityschoolofnaples",
+        "lastUpdated": "2025-11-30 09:08:27"
     }
 }
