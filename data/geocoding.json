@@ -31092,5 +31092,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "lawlerrink125cullenavenuenorthandoveressexcountymassachusetts01845unitedstates": {
+        "requestedAddress": "Lawler Arena, North Andover, MA",
+        "codedAddress": "Lawler Rink, 125, Cullen Avenue, North Andover, Essex County, Massachusetts, 01845, United States",
+        "latitude": 42.6679088,
+        "longitude": -71.1200968,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Lawler Arena",
+        "city": "North Andover",
+        "state": "MA",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }

@@ -10718,5 +10718,15 @@
         "images": [],
         "geocodingId": "communityschoolofnaples",
         "lastUpdated": "2025-11-30 09:08:27"
+    },
+    "1218": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/1218?lang=en&region=us",
+        "fullName": "Lawler Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "lawlerrink125cullenavenuenorthandoveressexcountymassachusetts01845unitedstates",
+        "lastUpdated": "2025-12-07 09:08:34"
     }
 }
