@@ -31106,5 +31106,33 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "23005ashlandvirginia": {
+        "requestedAddress": "Crenshaw Gym, Ashland, VA, 23005",
+        "codedAddress": "23005, Ashland, Virginia",
+        "latitude": 37.7503792,
+        "longitude": -77.4704238,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Crenshaw Gym",
+        "city": "Ashland",
+        "state": "VA",
+        "zipCode": "23005",
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "eleazerarena": {
+        "requestedAddress": "Eleazer Arena, Newberry, SC, 29108",
+        "codedAddress": "Eleazer Arena",
+        "latitude": 34.2853368,
+        "longitude": -81.6231003,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Eleazer Arena",
+        "city": "Newberry",
+        "state": "SC",
+        "zipCode": "29108",
+        "elevation": null,
+        "lastUpdated": null
     }
 }
