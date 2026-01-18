@@ -10748,5 +10748,15 @@
         "images": [],
         "geocodingId": "eleazerarena",
         "lastUpdated": "2025-12-21 09:09:05"
+    },
+    "11782": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/11782?lang=en&region=us",
+        "fullName": "Xtream Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "xtreamarenapoweredbymediacomeast9thstreetiowariverlandingcoralvillejohnsoncountyiowa52241unitedstates",
+        "lastUpdated": "2026-01-18 09:10:07"
     }
 }

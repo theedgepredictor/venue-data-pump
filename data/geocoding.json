@@ -31134,5 +31134,19 @@
         "zipCode": "29108",
         "elevation": null,
         "lastUpdated": null
+    },
+    "xtreamarenapoweredbymediacomeast9thstreetiowariverlandingcoralvillejohnsoncountyiowa52241unitedstates": {
+        "requestedAddress": "Xtream Arena, Coralville, IA",
+        "codedAddress": "Xtream Arena Powered by Mediacom, East 9th Street, Iowa River Landing, Coralville, Johnson County, Iowa, 52241, United States",
+        "latitude": 41.6808819,
+        "longitude": -91.5619747,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Xtream Arena",
+        "city": "Coralville",
+        "state": "IA",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }
