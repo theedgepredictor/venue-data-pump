@@ -2424,5 +2424,25 @@
         "images": [],
         "geocodingId": "cocacolacoliseumgardinerexpresswayfortyorklibertyvillagespadinafortyorktorontogoldenhorseshoeontariom6k1w8canada",
         "lastUpdated": "2025-10-12 09:07:36"
+    },
+    "1831": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1831?lang=en&region=us",
+        "fullName": "Bell Centre",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "bellcentre",
+        "lastUpdated": "2026-01-25 09:10:34"
+    },
+    "64": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/64?lang=en&region=us",
+        "fullName": "PeoplesBank Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "peoplesbankarenaannuccellostreetmainstreethistoricdistrictno2annstreethistoricdistrictdowntownhartfordclayarsenalhartfordcapitolplanningregionconnecticut06103unitedstates",
+        "lastUpdated": "2026-01-25 09:10:35"
     }
 }

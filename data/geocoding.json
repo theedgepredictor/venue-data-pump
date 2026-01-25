@@ -31148,5 +31148,47 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "wembleystateadiumwhitehorsewaynorthlondonboroughofbrentgreaterlondonenglandha98bqunitedkingdom": {
+        "requestedAddress": "Wembley Stadium, London",
+        "codedAddress": "Wembley Stadium, White Horse Way North, London Borough of Brent, Greater London, England, HA9 8BQ, United Kingdom",
+        "latitude": 51.5542489,
+        "longitude": -0.2847664,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Wembley Stadium",
+        "city": "London",
+        "state": null,
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "bellcentre": {
+        "requestedAddress": "Bell Centre, Montreal, PQ",
+        "codedAddress": "Bell Centre",
+        "latitude": 45.496082,
+        "longitude": -73.569336,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Bell Centre",
+        "city": "Montreal",
+        "state": "PQ",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "peoplesbankarenaannuccellostreetmainstreethistoricdistrictno2annstreethistoricdistrictdowntownhartfordclayarsenalhartfordcapitolplanningregionconnecticut06103unitedstates": {
+        "requestedAddress": "PeoplesBank Arena, Hartford, CT",
+        "codedAddress": "PeoplesBank Arena, Ann Uccello Street, Main Street Historic District No. 2, Ann Street Historic District, Downtown Hartford, Clay Arsenal, Hartford, Capitol Planning Region, Connecticut, 06103, United States",
+        "latitude": 41.76848,
+        "longitude": -72.6770215,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "PeoplesBank Arena",
+        "city": "Hartford",
+        "state": "CT",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }

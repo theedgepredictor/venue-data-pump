@@ -12128,5 +12128,15 @@
         "images": [],
         "geocodingId": "communitynationalbanktrustoftexas",
         "lastUpdated": "2025-11-30 09:08:22"
+    },
+    "2455": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/2455?lang=en&region=us",
+        "fullName": "Wembley Stadium",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "wembleystateadiumwhitehorsewaynorthlondonboroughofbrentgreaterlondonenglandha98bqunitedkingdom",
+        "lastUpdated": "2026-01-25 09:10:31"
     }
 }
