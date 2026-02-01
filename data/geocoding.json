@@ -31190,5 +31190,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "estdioolmpiconiltonsantos425ruajosdosreisengenhodedentroriodejaneiroregiogeogrficaimediatadoriodejaneiroregiometropolitanadoriodejaneiroregiogeogrficaintermediriadoriodejaneiroriodejaneiroregiosudeste20770001brasil": {
+        "requestedAddress": "Nilton Santos Stadium, Rio De Janeiro",
+        "codedAddress": "Est\u00e1dio Ol\u00edmpico Nilton Santos, 425, Rua Jos\u00e9 dos Reis, Engenho de Dentro, Rio de Janeiro, Regi\u00e3o Geogr\u00e1fica Imediata do Rio de Janeiro, Regi\u00e3o Metropolitana do Rio de Janeiro, Regi\u00e3o Geogr\u00e1fica Intermedi\u00e1ria do Rio de Janeiro, Rio de Janeiro, Regi\u00e3o Sudeste, 20770-001, Brasil",
+        "latitude": -22.893194,
+        "longitude": -43.2935691,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Nilton Santos Stadium",
+        "city": "Rio De Janeiro",
+        "state": null,
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }
