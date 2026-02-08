@@ -12148,5 +12148,15 @@
         "images": [],
         "geocodingId": "estdioolmpiconiltonsantos425ruajosdosreisengenhodedentroriodejaneiroregiogeogrficaimediatadoriodejaneiroregiometropolitanadoriodejaneiroregiogeogrficaintermediriadoriodejaneiroriodejaneiroregiosudeste20770001brasil",
         "lastUpdated": "2026-02-01 09:18:13"
+    },
+    "11823": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/11823?lang=en&region=us",
+        "fullName": "Ryan Field",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "ryanfieldhouse2233campusdriveevanstonevanstontownshipcookcountyillinois60208unitedstates",
+        "lastUpdated": "2026-02-08 09:18:21"
     }
 }

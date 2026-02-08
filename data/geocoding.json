@@ -31204,5 +31204,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "ryanfieldhouse2233campusdriveevanstonevanstontownshipcookcountyillinois60208unitedstates": {
+        "requestedAddress": "Ryan Field, Evanston, IL, 60208",
+        "codedAddress": "Ryan Field House, 2233, Campus Drive, Evanston, Evanston Township, Cook County, Illinois, 60208, United States",
+        "latitude": 42.0600495,
+        "longitude": -87.6725561,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Ryan Field",
+        "city": "Evanston",
+        "state": "IL",
+        "zipCode": "60208",
+        "elevation": null,
+        "lastUpdated": null
     }
 }
