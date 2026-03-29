@@ -31218,5 +31218,33 @@
         "zipCode": "60208",
         "elevation": null,
         "lastUpdated": null
+    },
+    "sanfordpentagon2210westpentagonplacesiouxfallsmapletontownshipminnehahacountysouthdakota57107unitedstates": {
+        "requestedAddress": "Sanford Pentagon, Sioux Falls, SD",
+        "codedAddress": "Sanford Pentagon, 2210, West Pentagon Place, Sioux Falls, Mapleton Township, Minnehaha County, South Dakota, 57107, United States",
+        "latitude": 43.5916439,
+        "longitude": -96.7547673,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Sanford Pentagon",
+        "city": "Sioux Falls",
+        "state": "SD",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "moodycenter2001robertdedmandrivemedicaldistrictaustintraviscountytexas78712unitedstates": {
+        "requestedAddress": "Moody Center, Austin, TX",
+        "codedAddress": "Moody Center, 2001, Robert Dedman Drive, Medical District, Austin, Travis County, Texas, 78712, United States",
+        "latitude": 30.2809367,
+        "longitude": -97.7306522,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Moody Center",
+        "city": "Austin",
+        "state": "TX",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }

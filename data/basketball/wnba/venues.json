@@ -2444,5 +2444,25 @@
         "images": [],
         "geocodingId": "peoplesbankarenaannuccellostreetmainstreethistoricdistrictno2annstreethistoricdistrictdowntownhartfordclayarsenalhartfordcapitolplanningregionconnecticut06103unitedstates",
         "lastUpdated": "2026-01-25 09:10:35"
+    },
+    "4796": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/4796?lang=en&region=us",
+        "fullName": "Sanford Pentagon",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "sanfordpentagon2210westpentagonplacesiouxfallsmapletontownshipminnehahacountysouthdakota57107unitedstates",
+        "lastUpdated": "2026-03-29 09:24:33"
+    },
+    "7317": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/7317?lang=en&region=us",
+        "fullName": "Moody Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "moodycenter2001robertdedmandrivemedicaldistrictaustintraviscountytexas78712unitedstates",
+        "lastUpdated": "2026-03-29 09:24:34"
     }
 }
