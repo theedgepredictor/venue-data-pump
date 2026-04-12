@@ -31246,5 +31246,33 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "wicksfamilyfieldatjoedavisstadiumjayceewaysouthwesthuntsvillemadisoncountyalabama35804unitedstates": {
+        "requestedAddress": "Joe Davis Stadium, Huntsville, AL",
+        "codedAddress": "Wicks Family Field at Joe Davis Stadium, Jaycee Way Southwest, Huntsville, Madison County, Alabama, 35804, United States",
+        "latitude": 34.6998184,
+        "longitude": -86.5887388,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Joe Davis Stadium",
+        "city": "Huntsville",
+        "state": "AL",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "tmobilecenter1407grandboulevardpowerlightdistrictdowntownkansascitykansascityjacksoncountymissouri64106unitedstates": {
+        "requestedAddress": "T-Mobile Center, Kansas City, MO",
+        "codedAddress": "T-Mobile Center, 1407, Grand Boulevard, Power & Light District, Downtown Kansas City, Kansas City, Jackson County, Missouri, 64106, United States",
+        "latitude": 39.0972952,
+        "longitude": -94.5799495,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "T-Mobile Center",
+        "city": "Kansas City",
+        "state": "MO",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }

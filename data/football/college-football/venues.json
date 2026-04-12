@@ -12158,5 +12158,15 @@
         "images": [],
         "geocodingId": "ryanfieldhouse2233campusdriveevanstonevanstontownshipcookcountyillinois60208unitedstates",
         "lastUpdated": "2026-02-08 09:18:21"
+    },
+    "11559": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/11559?lang=en&region=us",
+        "fullName": "Joe Davis Stadium",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "wicksfamilyfieldatjoedavisstadiumjayceewaysouthwesthuntsvillemadisoncountyalabama35804unitedstates",
+        "lastUpdated": "2026-04-12 09:34:09"
     }
 }
