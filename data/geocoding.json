@@ -31274,5 +31274,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "jeromebergfield7thavenuesoutheastmayvilletraillcountynorthdakota58257unitedstates": {
+        "requestedAddress": "Jerome Berg Field, Mayville, ND",
+        "codedAddress": "Jerome Berg Field, 7th Avenue Southeast, Mayville, Traill County, North Dakota, 58257, United States",
+        "latitude": 47.5049266,
+        "longitude": -97.3166486,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Jerome Berg Field",
+        "city": "Mayville",
+        "state": "ND",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }
