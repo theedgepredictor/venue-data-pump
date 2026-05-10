@@ -31288,5 +31288,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "galencentersouthfigueroastreetuniversityparkhistoricsouthcentrallosangeleslosangelescountycalifornia90089unitedstates": {
+        "requestedAddress": "Galen Center, Los Angeles, CA",
+        "codedAddress": "Galen Center, South Figueroa Street, University Park, Historic South-Central, Los Angeles, Los Angeles County, California, 90089, United States",
+        "latitude": 34.020753,
+        "longitude": -118.2797965,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Galen Center",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }

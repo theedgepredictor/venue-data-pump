@@ -2474,5 +2474,15 @@
         "images": [],
         "geocodingId": "tmobilecenter1407grandboulevardpowerlightdistrictdowntownkansascitykansascityjacksoncountymissouri64106unitedstates",
         "lastUpdated": "2026-04-12 09:34:10"
+    },
+    "1918": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/wnba/venues/1918?lang=en&region=us",
+        "fullName": "Galen Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "galencentersouthfigueroastreetuniversityparkhistoricsouthcentrallosangeleslosangelescountycalifornia90089unitedstates",
+        "lastUpdated": "2026-05-10 10:03:32"
     }
 }
