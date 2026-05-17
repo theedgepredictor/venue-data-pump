@@ -12178,5 +12178,15 @@
         "images": [],
         "geocodingId": "jeromebergfield7thavenuesoutheastmayvilletraillcountynorthdakota58257unitedstates",
         "lastUpdated": "2026-05-03 09:56:51"
+    },
+    "11921": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/11921?lang=en&region=us",
+        "fullName": "Nu Stadium",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "nustadium1900northwest37thavenuemiamimiamidadecountyflorida33125unitedstates",
+        "lastUpdated": "2026-05-17 10:14:44"
     }
 }

@@ -7642,5 +7642,65 @@
         "images": [],
         "geocodingId": "mosconecenter3rdstreettransbaysouthofmarketsanfranciscocalifornia94107unitedstatesofamerica",
         "lastUpdated": "2025-10-26 09:07:45"
+    },
+    "11930": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/venues/11930?lang=en&region=us",
+        "fullName": "FC Bayern Munich Stadium",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "fcbayernmunchen",
+        "lastUpdated": "2026-05-17 10:14:38"
+    },
+    "11931": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/venues/11931?lang=en&region=us",
+        "fullName": "Maracan\u00e3 Stadium",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "estdiojornalistamriofilhoavenidareipelmaracanriodejaneiroregiosudeste20271130brasil",
+        "lastUpdated": "2026-05-17 10:14:39"
+    },
+    "11938": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/venues/11938?lang=en&region=us",
+        "fullName": "Highmark Stadium",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "highmarkstadium1billsdrivetownoforchardparkeriecountynewyork14127unitedstates",
+        "lastUpdated": "2026-05-17 10:14:40"
+    },
+    "1781": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/venues/1781?lang=en&region=us",
+        "fullName": "Stade de France",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "stadedefranceavenuedustateadedefrancefrancmoisinbelairstateadedefrancesaintdenisseinesaintdenisledefrancefrancemtropolitaine93200france",
+        "lastUpdated": "2026-05-17 10:14:41"
+    },
+    "8219": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/venues/8219?lang=en&region=us",
+        "fullName": "Estadio Banorte",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "estadiobanortecircuitoestadiobanorteexejidodesantarsulacoapasantarsulacoapaciudaddemxicocoyoacnciudaddemxico04600mxico",
+        "lastUpdated": "2026-05-17 10:14:42"
+    },
+    "9119": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/venues/9119?lang=en&region=us",
+        "fullName": "Melbourne Cricket Ground",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "melbournecricketground120barassiwayjolimonteastmelbournemelbournevictoria3002australia",
+        "lastUpdated": "2026-05-17 10:14:43"
     }
 }
