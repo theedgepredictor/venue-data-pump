@@ -10958,5 +10958,15 @@
         "images": [],
         "geocodingId": "23005ashlandvirginia",
         "lastUpdated": "2025-12-21 09:09:02"
+    },
+    "11954": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/11954?lang=en&region=us",
+        "fullName": "ECCU Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "centerdrstateephenvilletexas76401",
+        "lastUpdated": "2026-06-07 10:58:05"
     }
 }

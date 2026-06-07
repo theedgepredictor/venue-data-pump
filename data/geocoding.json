@@ -31400,5 +31400,33 @@
         "zipCode": "33125",
         "elevation": null,
         "lastUpdated": null
+    },
+    "estadiojuanramnloubrielavenidadragustnstahlbarriopueblobayamnpuertorico00960unitedstates": {
+        "requestedAddress": "Juan Ram\u00f3n Loubriel Stadium, Bayamon",
+        "codedAddress": "Estadio Juan Ram\u00f3n Loubriel, Avenida Dr. Agust\u00edn Stahl, Barrio Pueblo, Bayam\u00f3n, Puerto Rico, 00960, United States",
+        "latitude": 18.3936844,
+        "longitude": -66.1514869,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Juan Ram\u00f3n Loubriel Stadium",
+        "city": "Bayamon",
+        "state": null,
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "centerdrstateephenvilletexas76401": {
+        "requestedAddress": "ECCU Center, Stephenville, TX",
+        "codedAddress": "Center Dr, Stephenville, Texas, 76401",
+        "latitude": 32.226940543388,
+        "longitude": -98.22493283418,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "ECCU Center",
+        "city": "Stephenville",
+        "state": "TX",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }

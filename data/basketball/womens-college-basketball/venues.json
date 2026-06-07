@@ -10758,5 +10758,15 @@
         "images": [],
         "geocodingId": "xtreamarenapoweredbymediacomeast9thstreetiowariverlandingcoralvillejohnsoncountyiowa52241unitedstates",
         "lastUpdated": "2026-01-18 09:10:07"
+    },
+    "11954": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/11954?lang=en&region=us",
+        "fullName": "ECCU Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "centerdrstateephenvilletexas76401",
+        "lastUpdated": "2026-06-07 10:58:06"
     }
 }

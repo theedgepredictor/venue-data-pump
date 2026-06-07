@@ -12188,5 +12188,15 @@
         "images": [],
         "geocodingId": "nustadium1900northwest37thavenuemiamimiamidadecountyflorida33125unitedstates",
         "lastUpdated": "2026-05-17 10:14:44"
+    },
+    "11946": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/11946?lang=en&region=us",
+        "fullName": "Juan Ram\u00f3n Loubriel Stadium",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "estadiojuanramnloubrielavenidadragustnstahlbarriopueblobayamnpuertorico00960unitedstates",
+        "lastUpdated": "2026-06-07 10:58:05"
     }
 }
