@@ -12198,5 +12198,25 @@
         "images": [],
         "geocodingId": "estadiojuanramnloubrielavenidadragustnstahlbarriopueblobayamnpuertorico00960unitedstates",
         "lastUpdated": "2026-06-07 10:58:05"
+    },
+    "11955": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/11955?lang=en&region=us",
+        "fullName": "PENFED Field at Scranton Memorial Stadium",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "18508scrantonpennsylvania",
+        "lastUpdated": "2026-06-14 11:20:32"
+    },
+    "11956": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/11956?lang=en&region=us",
+        "fullName": "Antler Stadium",
+        "capacity": null,
+        "grass": false,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "antlerstadium1310sidneybakerstreetkerrvillekerrcountytexas78028unitedstates",
+        "lastUpdated": "2026-06-14 11:20:33"
     }
 }

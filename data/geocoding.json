@@ -31428,5 +31428,33 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "18508scrantonpennsylvania": {
+        "requestedAddress": "PENFED Field at Scranton Memorial Stadium, Scranton, PA, 18508",
+        "codedAddress": "18508, Scranton, Pennsylvania",
+        "latitude": 41.439243,
+        "longitude": -75.659866,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "PENFED Field at Scranton Memorial Stadium",
+        "city": "Scranton",
+        "state": "PA",
+        "zipCode": "18508",
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "antlerstadium1310sidneybakerstreetkerrvillekerrcountytexas78028unitedstates": {
+        "requestedAddress": "Antler Stadium, Kerrville, TX, 78028",
+        "codedAddress": "Antler Stadium, 1310, Sidney Baker Street, Kerrville, Kerr County, Texas, 78028, United States",
+        "latitude": 30.056771,
+        "longitude": -99.1319805,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Antler Stadium",
+        "city": "Kerrville",
+        "state": "TX",
+        "zipCode": "78028",
+        "elevation": null,
+        "lastUpdated": null
     }
 }
