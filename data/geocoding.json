@@ -31456,5 +31456,19 @@
         "zipCode": "78028",
         "elevation": null,
         "lastUpdated": null
+    },
+    "uwffieldhouse": {
+        "requestedAddress": "UWF Field House, Pensacola, FL",
+        "codedAddress": "Uwf Field House",
+        "latitude": 30.5454,
+        "longitude": -87.2211,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "UWF Field House",
+        "city": "Pensacola",
+        "state": "FL",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }

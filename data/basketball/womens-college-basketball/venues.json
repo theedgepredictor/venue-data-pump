@@ -10768,5 +10768,15 @@
         "images": [],
         "geocodingId": "centerdrstateephenvilletexas76401",
         "lastUpdated": "2026-06-07 10:58:06"
+    },
+    "11945": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/11945?lang=en&region=us",
+        "fullName": "UWF Field House",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "uwffieldhouse",
+        "lastUpdated": "2026-06-21 11:36:34"
     }
 }
