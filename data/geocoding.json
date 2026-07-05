@@ -31470,5 +31470,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "tqlstadium1501centralparkwaybettslongworthhistoricdistrictwestendcincinnatihamiltoncountyohio45214unitedstates": {
+        "requestedAddress": "TQL Stadium, Cincinnati, OH",
+        "codedAddress": "TQL Stadium, 1501, Central Parkway, Betts-Longworth Historic District, West End, Cincinnati, Hamilton County, Ohio, 45214, United States",
+        "latitude": 39.1111789,
+        "longitude": -84.5222288,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "TQL Stadium",
+        "city": "Cincinnati",
+        "state": "OH",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }

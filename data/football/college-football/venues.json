@@ -12218,5 +12218,15 @@
         "images": [],
         "geocodingId": "antlerstadium1310sidneybakerstreetkerrvillekerrcountytexas78028unitedstates",
         "lastUpdated": "2026-06-14 11:20:33"
+    },
+    "7173": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/7173?lang=en&region=us",
+        "fullName": "TQL Stadium",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "tqlstadium1501centralparkwaybettslongworthhistoricdistrictwestendcincinnatihamiltoncountyohio45214unitedstates",
+        "lastUpdated": "2026-07-05 10:54:51"
     }
 }
