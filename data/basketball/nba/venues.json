@@ -6878,5 +6878,15 @@
         "images": [],
         "geocodingId": "rodlaverarena200batmanavenuemelbournecityofmelbournevictoria3000australia",
         "lastUpdated": "2025-08-24 09:08:07"
+    },
+    "5056": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/venues/5056?lang=en&region=us",
+        "fullName": "Videotron Centre",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "videotroncentre",
+        "lastUpdated": "2026-08-02 10:22:09"
     }
 }

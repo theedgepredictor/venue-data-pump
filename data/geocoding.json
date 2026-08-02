@@ -31484,5 +31484,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "videotroncentre": {
+        "requestedAddress": "Videotron Centre, Quebec City, PQ",
+        "codedAddress": "Videotron Centre",
+        "latitude": 46.828935,
+        "longitude": -71.248362,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Videotron Centre",
+        "city": "Quebec City",
+        "state": "PQ",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }
