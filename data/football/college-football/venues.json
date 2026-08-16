@@ -12228,5 +12228,45 @@
         "images": [],
         "geocodingId": "tqlstadium1501centralparkwaybettslongworthhistoricdistrictwestendcincinnatihamiltoncountyohio45214unitedstates",
         "lastUpdated": "2026-07-05 10:54:51"
+    },
+    "10464": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/10464?lang=en&region=us",
+        "fullName": "Walter Butler Stadium",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "mckenzietennessee",
+        "lastUpdated": "2026-08-16 09:14:23"
+    },
+    "11472": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/11472?lang=en&region=us",
+        "fullName": "The Stadium at Memorial Field",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "memorialfield",
+        "lastUpdated": "2026-08-16 09:14:25"
+    },
+    "12022": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/12022?lang=en&region=us",
+        "fullName": "Oakland Athletic Complex Perham Field",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "glendivemontana",
+        "lastUpdated": "2026-08-16 09:14:25"
+    },
+    "12023": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/college-football/venues/12023?lang=en&region=us",
+        "fullName": "Stallings Field",
+        "capacity": null,
+        "grass": true,
+        "indoor": false,
+        "images": [],
+        "geocodingId": "starlingwayrockymountnorthcarolina27803",
+        "lastUpdated": "2026-08-16 09:14:26"
     }
 }

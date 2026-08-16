@@ -6888,5 +6888,15 @@
         "images": [],
         "geocodingId": "videotroncentre",
         "lastUpdated": "2026-08-02 10:22:09"
+    },
+    "9050": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/nba/venues/9050?lang=en&region=us",
+        "fullName": "Co-op Live",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "cooplive1sportcitywaybradfordmanchestergreatermanchesterenglandm113dlunitedkingdom",
+        "lastUpdated": "2026-08-16 09:14:28"
     }
 }
