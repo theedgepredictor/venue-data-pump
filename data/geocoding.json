@@ -4676,18 +4676,18 @@
         "lastUpdated": "2024-06-17 14:22:28"
     },
     "nrgstateadium": {
-        "requestedAddress": "NRG Stadium, Houston, TX, 77054",
+        "requestedAddress": "Reliant Stadium (Old), Houston, TX, 77054",
         "codedAddress": "NRG Stadium",
-        "latitude": 29.6860598,
-        "longitude": -95.4108751,
+        "latitude": 29.6848655,
+        "longitude": -95.4108122,
         "provider": "ArcGIS",
-        "h3Index": "8f446ca8540c16d",
-        "name": "NRG Stadium",
+        "h3Index": null,
+        "name": "Reliant Stadium (Old)",
         "city": "Houston",
         "state": "TX",
         "zipCode": "77054",
-        "elevation": 62.33596,
-        "lastUpdated": "2024-06-17 18:03:15"
+        "elevation": null,
+        "lastUpdated": null
     },
     "rentschlerfield": {
         "requestedAddress": "Rentschler Field",
@@ -31551,6 +31551,20 @@
         "name": "Co-op Live",
         "city": "Manchester",
         "state": null,
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
+    },
+    "reefctjacksonvilleflorida32226": {
+        "requestedAddress": "The Reef, Jacksonville, FL",
+        "codedAddress": "Reef Ct, Jacksonville, Florida, 32226",
+        "latitude": 30.508704074581,
+        "longitude": -81.572134590347,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "The Reef",
+        "city": "Jacksonville",
+        "state": "FL",
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null

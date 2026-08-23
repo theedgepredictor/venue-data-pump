@@ -10778,5 +10778,15 @@
         "images": [],
         "geocodingId": "uwffieldhouse",
         "lastUpdated": "2026-06-21 11:36:34"
+    },
+    "12227": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/12227?lang=en&region=us",
+        "fullName": "The Reef",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "reefctjacksonvilleflorida32226",
+        "lastUpdated": "2026-08-23 09:14:40"
     }
 }

@@ -7702,5 +7702,15 @@
         "images": [],
         "geocodingId": "melbournecricketground120barassiwayjolimonteastmelbournemelbournevictoria3002australia",
         "lastUpdated": "2026-05-17 10:14:43"
+    },
+    "1880": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/football/leagues/nfl/venues/1880?lang=en&region=us",
+        "fullName": "Reliant Stadium (Old)",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "nrgstateadium",
+        "lastUpdated": "2026-08-23 09:14:38"
     }
 }
