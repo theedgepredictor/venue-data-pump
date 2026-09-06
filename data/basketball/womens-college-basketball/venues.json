@@ -10788,5 +10788,15 @@
         "images": [],
         "geocodingId": "reefctjacksonvilleflorida32226",
         "lastUpdated": "2026-08-23 09:14:40"
+    },
+    "12371": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/12371?lang=en&region=us",
+        "fullName": "James T. Morris Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "indianapolisindiana",
+        "lastUpdated": "2026-09-06 12:24:40"
     }
 }

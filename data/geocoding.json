@@ -31568,5 +31568,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "indianapolisindiana": {
+        "requestedAddress": "James T. Morris Arena, Indianapolis, IN",
+        "codedAddress": "Indianapolis, Indiana",
+        "latitude": 39.76845,
+        "longitude": -86.156212,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "James T. Morris Arena",
+        "city": "Indianapolis",
+        "state": "IN",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }
