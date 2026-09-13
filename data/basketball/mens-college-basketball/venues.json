@@ -10988,5 +10988,15 @@
         "images": [],
         "geocodingId": "indianapolisindiana",
         "lastUpdated": "2026-09-06 12:24:38"
+    },
+    "11030": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/11030?lang=en&region=us",
+        "fullName": "Tahoe Blue Event Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "tahoeblueeventcenterlakeparkwaystatelinedouglascountynevada89449unitedstates",
+        "lastUpdated": "2026-09-13 13:29:25"
     }
 }
