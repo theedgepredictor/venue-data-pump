@@ -10998,5 +10998,25 @@
         "images": [],
         "geocodingId": "tahoeblueeventcenterlakeparkwaystatelinedouglascountynevada89449unitedstates",
         "lastUpdated": "2026-09-13 13:29:25"
+    },
+    "12707": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/12707?lang=en&region=us",
+        "fullName": "Tyson Events Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "tysoneventscenter401gordondrivesiouxcitywoodburycountyiowa51101unitedstates",
+        "lastUpdated": "2026-09-20 13:15:00"
+    },
+    "3282": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/3282?lang=en&region=us",
+        "fullName": "Palazzo dello Sport",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "palaodellosport1piaaledellosporteurmunicipioromaixromaromacapitalelazio00144italia",
+        "lastUpdated": "2026-09-20 13:15:01"
     }
 }

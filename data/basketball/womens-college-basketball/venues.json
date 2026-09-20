@@ -10818,5 +10818,15 @@
         "images": [],
         "geocodingId": "tysoneventscenter401gordondrivesiouxcitywoodburycountyiowa51101unitedstates",
         "lastUpdated": "2026-09-13 13:29:28"
+    },
+    "3282": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/3282?lang=en&region=us",
+        "fullName": "Palazzo dello Sport",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "palaodellosport1piaaledellosporteurmunicipioromaixromaromacapitalelazio00144italia",
+        "lastUpdated": "2026-09-20 13:15:03"
     }
 }

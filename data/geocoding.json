@@ -31624,5 +31624,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "palaodellosport1piaaledellosporteurmunicipioromaixromaromacapitalelazio00144italia": {
+        "requestedAddress": "Palazzo dello Sport, Rome, Italy",
+        "codedAddress": "Palazzo dello Sport, 1, Piazzale dello Sport, E.U.R., Municipio Roma IX, Roma, Roma Capitale, Lazio, 00144, Italia",
+        "latitude": 41.825263,
+        "longitude": 12.4665751,
+        "provider": "OSM",
+        "h3Index": null,
+        "name": "Palazzo dello Sport",
+        "city": "Rome",
+        "state": "Italy",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }
