@@ -11018,5 +11018,35 @@
         "images": [],
         "geocodingId": "palaodellosport1piaaledellosporteurmunicipioromaixromaromacapitalelazio00144italia",
         "lastUpdated": "2026-09-20 13:15:01"
+    },
+    "12227": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/12227?lang=en&region=us",
+        "fullName": "The Reef",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "reefctjacksonvilleflorida32226",
+        "lastUpdated": "2026-09-27 14:21:15"
+    },
+    "12825": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/12825?lang=en&region=us",
+        "fullName": "Ratner Athletics Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "flamesathleticscenter",
+        "lastUpdated": "2026-09-27 14:21:16"
+    },
+    "12826": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/12826?lang=en&region=us",
+        "fullName": "Anderson Center",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "andersonavedallastexas75211",
+        "lastUpdated": "2026-09-27 14:21:17"
     }
 }

@@ -10828,5 +10828,35 @@
         "images": [],
         "geocodingId": "palaodellosport1piaaledellosporteurmunicipioromaixromaromacapitalelazio00144italia",
         "lastUpdated": "2026-09-20 13:15:03"
+    },
+    "12827": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/12827?lang=en&region=us",
+        "fullName": "Goodman Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "goodmandrsalisburynorthcarolina28146",
+        "lastUpdated": "2026-09-27 14:21:19"
+    },
+    "12828": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/12828?lang=en&region=us",
+        "fullName": "DCC Gymnasium",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "gymnasium",
+        "lastUpdated": "2026-09-27 14:21:20"
+    },
+    "5771": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/womens-college-basketball/venues/5771?lang=en&region=us",
+        "fullName": "Lockhart Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "rebeccadlockhartarenacampusdriveoremutahcountyutah84058unitedstates",
+        "lastUpdated": "2026-09-27 14:21:21"
     }
 }
