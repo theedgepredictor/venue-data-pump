@@ -11048,5 +11048,15 @@
         "images": [],
         "geocodingId": "andersonavedallastexas75211",
         "lastUpdated": "2026-09-27 14:21:17"
+    },
+    "11815": {
+        "ref": "http://sports.core.api.espn.com/v2/sports/basketball/leagues/mens-college-basketball/venues/11815?lang=en&region=us",
+        "fullName": "Gilbert Arena",
+        "capacity": null,
+        "grass": false,
+        "indoor": true,
+        "images": [],
+        "geocodingId": "gilbertstatenewburyparkcalifornia91320",
+        "lastUpdated": "2026-10-04 14:27:54"
     }
 }

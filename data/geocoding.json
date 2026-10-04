@@ -31694,5 +31694,19 @@
         "zipCode": null,
         "elevation": null,
         "lastUpdated": null
+    },
+    "gilbertstatenewburyparkcalifornia91320": {
+        "requestedAddress": "Gilbert Arena, Thousand Oaks, CA",
+        "codedAddress": "Gilbert St, Newbury Park, California, 91320",
+        "latitude": 34.186168145235,
+        "longitude": -118.935115183686,
+        "provider": "ArcGIS",
+        "h3Index": null,
+        "name": "Gilbert Arena",
+        "city": "Thousand Oaks",
+        "state": "CA",
+        "zipCode": null,
+        "elevation": null,
+        "lastUpdated": null
     }
 }
